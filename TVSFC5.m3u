@@ -64,6 +64,10 @@ https://cdn.streamhispanatv.net:3831/live/conosurlive.m3u8
 https://live.elolamtv.org:3927/live/elolamtvlivelive.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Espiritu Santo Y Fuego Tv
 https://inliveserver.com:1936/8392/8392/playlist.m3u8
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Nuevo Mundo TV 
+https://tvlatina.live:1936/8008/8008/playlist.m3u8
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",TV Maya
+https://tv91.hostingnuclear.com:19360/telemaya/telemaya.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",GTV
 https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Guatevision
