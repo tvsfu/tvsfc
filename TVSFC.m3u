@@ -1,11 +1,7 @@
 #EXTM3U
 ✅ TV GUATEMALA ✅
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RRmCvFvliO4/maxresdefault.jpg" group-title="✅ TV GUATEMALA ✅",A mas Guate
-https://channel2-tva.duin.dev/tv/streaming/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTodIB2Jh3A7ycYU2JOAvnDq9dUlf-YRQJxTxq2_DTa63bSraoJjChqnA&s=10" group-title="✅ TV GUATEMALA ✅",Aurora Media Films Tv
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-#EXTINF:-1 tvg-logo="https://tvaztecaguate.com/wp-content/uploads/2022/02/Tv-Azteca-Guate.png" group-title="✅ TV GUATEMALA ✅",Azteca Guate
-https://channel1-tva.duin.dev/tv/streaming/2/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe_6eIgPC-M74Jcmcvnd3o8Irx4jW5P0eJHYuMSsqjcQlnpFB9" group-title="✅ TV GUATEMALA ✅",Barbe TV
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdX7cTd25lwffh3ghKI3NnT_RAe0q017le_Rx0LzcpM-YDbiqjQkC7B3E&s=10" group-title="✅ TV GUATEMALA ✅",Canal 100 Chinique
@@ -200,6 +196,13 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338884
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338885
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Canal SOL TV (hd)" tvg-logo="https://nubedeappskings.vip/logos/storage/canalsol.png" group-title="✅ TV GUATEMALA ✅",Canal SOL TV (hd)
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338889
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", TVGT Plus 
+https://tvgtplus.b-cdn.net/tvgtplus/index.m3u8
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", VEA CANAL 
+https://fa723fc1b171.use22.playlist.live-video.net/v1/playlist/Cu8F_FOUutFiykrhOJHOlXXn26OUfr8o853AQYA2xlSCyUCEe902U1YvMJ8ki_Uv6qc-NaZjJVroQIzB7epoMXcziudNIY-LNw6CCYEOoP7Fy2i0YCNxA5Uy_Nb4IMOkId_5V73RNkTYp1h24wrE1yrAC2EgDujiFzvpmKYJ3wC53rLNE9WCgLv-KhyO0KnNkxc0RudWUupfFGrxUJqnBUUSTXzmxf797g07kx59pmQB0y1lXDSJC_8Q9EOa6Y4x_AVA8aaXuoA3aEJFm_ofku38R5DladyMHsSnF5l_GL1bLM_-m6V7ykjyP2yZx-hPPQ6BFn02VrG-ypf1BZUDJyHODb6qBv2aBD2be0eKBsVLLC8ctPi2FXHN3VyOjEz0ogOr5DVF0grZgNdSeuQfJzZuUZAI4nLgl7TPeQ9z5Mbr7elQ89gATRALBP05P1_TruoITm4HNGGtwa5Y_OoozRo0LH-xByN5oBalc4Ppzvuth87T8e1iJpGdU6G6aD1A1dspxiPPO-Ly4A7x6UmEbH4AwXGdd0wMRt_PIluft025rFy-q9SOH6mLHEU1ncRXmzrl4MB84cduHAGIlLMV1YJFv1mDUzYcaprK8ejBBAZBICGE4FnkI8FT0vkvw-OUM5Agp8kKHxSyV5FSVuLHEctpDQ4pxp06eQuUpbzeRxIY_l-PK2wQQHuqyJMnR1mktNzP98bqCl_EWI8LrHAyI9bGI_AliLKHiw051OW62A4ek-_14sUIMgqEsGW3PHn3oxFiU7pe9QP8FNWYQSQ2FDbI9tSOnd0fVjtdKgkX5ZA6kKi2UqCn2R72p7W58jlGEvWsTiRSYIVZ92cTy1havRRhewufIMWP3lQ8ywLbW-ioxQ9RKgl4DpaJwK57uBrfGSkya3vEZlpq3p8Bn5qNf82EVW5VdISrnmGf9WiS-wlfNDnemWoL-N9yBxQxQsMZGDqQVDzWoci8W5z-nLKqY-lDKLa5z9juxNIXdeU6qt8iYhoMCnWLikgwcZYU3XSqIAEqCXVzLWVhc3QtMjCqDw.m3u8
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", La Cumbre Tv
+https://live20.bozztv.com/giatv/giatv-lapreferida/lapreferida/chunks.m3u8
+
 ⚽ EVENTO DIRECTO⚽ 
 #EXTINF:-1 group-title="⚽ EVENTO DIRECTO⚽ ", TIGO SPORTS 
 https://h4kuqqzp.39564828.net:8443/hls/xzwt2rhyf1d8s.m3u8?s=GrRntK2AwHMtwJpjOCRQsg&e=1779611073
