@@ -48,8 +48,6 @@ https://tvlatina.live:1936/8008/8008/playlist.m3u8
 https://tv91.hostingnuclear.com:19360/telemaya/telemaya.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",GTV
 https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Guatevision
-http://168.227.22.18:1935/live/canal-149/playlist.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Intercable Tv
 https://live.intercomtvgt.com:3855/live/intercablelive.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Luna Visión TV
