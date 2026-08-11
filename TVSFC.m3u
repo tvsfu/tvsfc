@@ -181,6 +181,8 @@ https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
 http://173.249.60.54/hls/jubilotv.m3u8#b39ed6ad6e6719436334ed68a8cb30968e4a261a6e8bda1f87ae40b44cedb10d
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Uncion TV
 http://iptv.streamhispanatv.net:8080/live/playgt/playgt2023/571.m3u8
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", 502 Visión Maya Tv
+https://cdn.streamhispanatv.net:3114/live/vmayatvlive.m3u8
 #EXTINF:-1 group-title="⚽ EVENTO DIRECTO⚽ ", TIGO SPORTS 
 https://h4kuqqzp.39564828.net:8443/hls/xzwt2rhyf1d8s.m3u8?s=GrRntK2AwHMtwJpjOCRQsg&e=1779611073
 #EXTINF:-1 group-title="⚽ EVENTO DIRECTO⚽ ", TIGO SPORTS 2
