@@ -127,7 +127,7 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338861
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338862
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TV Azteca Guate HD" tvg-logo="https://nubedeappskings.vip/logos/storage/aztecaguate.png" group-title="✅ TV GUATEMALA ✅",TV Azteca Guate HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338863
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TIGO Sports (guatemala) HD" tvg-logo="https://nubedeappskings.vip/logos/storage/amigos.png" group-title="✅ TV GUATEMALA ✅",TIGO Sports (guatemala) HD
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TIGO Sports (guatemala) HD" tvg-logo="https://nubedeappskings.vip/logos/storage/amigos.png" group-title="✅ TV GUATEMALA ✅", Fox Guatemala 
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338864
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Amigostv (chiquimul) HD" tvg-logo="https://nubedeappskings.vip/logos/storage/amigos.png" group-title="✅ TV GUATEMALA ✅",Amigostv (chiquimul) HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338866
@@ -149,7 +149,7 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338881
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338883
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Canal Maxivisión TV (hd)" tvg-logo="https://nubedeappskings.vip/logos/storage/maxivision.png" group-title="✅ TV GUATEMALA ✅",Canal Maxivisión TV (hd)
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338884
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TIGO Sports HD" tvg-logo="https://nubedeappskings.vip/logos/storage/tigogtm.png" group-title="✅ TV GUATEMALA ✅",TIGO Sports HD
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TIGO Sports HD" tvg-logo="https://nubedeappskings.vip/logos/storage/tigogtm.png" group-title="✅ TV GUATEMALA ✅",Fox Guatemala 
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338885
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Canal SOL TV (hd)" tvg-logo="https://nubedeappskings.vip/logos/storage/canalsol.png" group-title="✅ TV GUATEMALA ✅",Canal SOL TV (hd)
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338889
@@ -184,17 +184,16 @@ http://iptv.streamhispanatv.net:8080/live/playgt/playgt2023/571.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", 502 Visión Maya Tv
 https://cdn.streamhispanatv.net:3114/live/vmayatvlive.m3u8
 
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwCPF7ZsvAs33MUr8hCBJ_OtDiDG2zy-e6hyEsd4hKqA&s=10" group-title="✅EVENTO NACIONAL✅", Xolabaj TV 2
-https://scontent.fgua4-1.fna.fbcdn.net/hvideo-hil-pnb/_nc_cat-108/_nc_sr_t-4/v/rAScBiGiQcaljrxBvwuI8fi6qpnRiCbcIEmpLhQTIq2Qnpg/_nc_ohc-IOupiLO99M8Q7kNvwH4gkxv/live-dash/dash-abr5/1556708066493613.mpd?_nc_ad=z-m&_nc_cid=0&_nc_rml=0&_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AQHACNHfXW45381KZ8aJqhzs_AK3jPW0u3uDz61OaiHaCQ&oe=6A7D67ED
 
 
-#EXTINF:-1 group-title="⚽ EVENTO DIRECTO⚽ ", TIGO SPORTS 
+
+#EXTINF:-1 group-title="⚽ EVENTO DIRECTO⚽ ", Fox 
 https://h4kuqqzp.39564828.net:8443/hls/xzwt2rhyf1d8s.m3u8?s=GrRntK2AwHMtwJpjOCRQsg&e=1779611073
-#EXTINF:-1 group-title="⚽ EVENTO DIRECTO⚽ ", TIGO SPORTS 2
+#EXTINF:-1 group-title="⚽ EVENTO DIRECTO⚽ ", Fox 2
 https://mut001.myturn1.top:8088/live/ELGTV109/playlist.m3u8?id=123246&pk=4af0a948913c43dda51516cd6e3a7eb192c889e0f027f8ef22dcf8ffdda4ddeb7c6fdaae4237aaaa3b077587e7551ca48e3ac6d9970374203f7e57262f73c24f
-#EXTINF:-1 group-title="⚽ EVENTO DIRECTO⚽ ", TIGO SPORTS 3
+#EXTINF:-1 group-title="⚽ EVENTO DIRECTO⚽ ", Fox 3
 https://cdn7.zohanayaan.com:1686/hls/golazoz3.m3u8?md5=oLk6A6AnlEKNX5m0ePa4Bg&expires=1779597744
-#EXTINF:-1 group-title="⚽ EVENTO DIRECTO⚽ ", TIGO SPORTS 4
+#EXTINF:-1 group-title="⚽ EVENTO DIRECTO⚽ ", Fox 4
 https://h4kuqqzp.39564828.net:8443/hls/xzwt2rhyf1d8s.m3u8?s=AvLVNcfmMGEFZ0FHMQ4FMw&e=1779612294
 
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: UEFA: M. Liga de Campeones SD" tvg-logo="http://icon.guard447.cyou/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="⚽ | Champions League ",SP: UEFA: M. Liga de Campeones SD
@@ -3473,7 +3472,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1509637
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Bundesliga | SKY Sports HD" tvg-logo="https://i.postimg.cc/7Z6ZrwXm/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-20250726-141658-0000.png" group-title="Lat | Bundesliga [K]",Bundesliga | SKY Sports HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1509642
 
-Lat | Chile Deportes⚽ [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="DIRECTVSports.cl" tvg-name="Chile: Directv Sports HD" tvg-logo="https://i.pinimg.com/originals/07/f0/fd/07f0fd212afc72fd215d7d3c81251d72.png" group-title="Lat | Chile Deportes⚽ [K]",Chile: Directv Sports HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1769429
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Chile: ESPN 6 FOX 3 HD" tvg-logo="https://barrettmedia.com/wp-content/uploads/2022/10/BIG-12-ESPN-FOX-SPORTS.jpg" group-title="Lat | Chile Deportes⚽ [K]",Chile: ESPN 6 FOX 3 HD
@@ -3501,7 +3499,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1769440
 #EXTINF:-1 xm-ott="{ID}" tvg-id="TNTSportsPremium.cl" tvg-name="Chile: TNT Sports Premium HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/LogoTNTSportsPremium2024.svg" group-title="Lat | Chile Deportes⚽ [K]",Chile: TNT Sports Premium HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1769441
 
-Lat | Chile [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="Teletrak.cl" tvg-name=" Teletrak HD" tvg-logo="" group-title="Lat | Chile [K]", Teletrak HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1554332
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ESPN Premium HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDcvcjzjn2GWIfhC1z3_620MPgVaLRcPnlwA&usqp=CAU" group-title="Lat | Chile [K]",ESPN Premium HD
@@ -3585,7 +3582,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1554301
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CL | ETC TV OPC 1 HD" tvg-logo="https://yt3.googleusercontent.com/JCCNdfH_O5oae87fioEyBJhn3sH5BtY_cMVTe1KrGuwh5xX8ZBqXml9nCGnfwlGpdUtxRt0Lhy4=s900-c-k-c0x00ffffff-no-rj" group-title="Lat | Chile [K]",CL | ETC TV OPC 1 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1554300
 
-Lat | Cinema (K)
 #EXTINF:-1 xm-ott="{ID}" tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/prbH6LkW/tyc-20250910-102217-0000.png" group-title="Lat | Cinema (K)",AXN HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1491574
 #EXTINF:-1 xm-ott="{ID}" tvg-id="AXN.mx" tvg-name="AXN SD" tvg-logo="https://i.postimg.cc/prbH6LkW/tyc-20250910-102217-0000.png" group-title="Lat | Cinema (K)",AXN SD
@@ -3711,7 +3707,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771679
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Freetv Saber Más HD" tvg-logo="https://nubedeappskings.vip/logos/Cinema/FreeTV.png" group-title="Lat | Cinema (K)",Freetv Saber Más HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771691
 
-Lat | Cinema HD [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Freetv Terror HD" tvg-logo="https://contentmasters.app/logos/freetv-terror.png" group-title="Lat | Cinema HD [K]",Freetv Terror HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1774080
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DE Pelicula PLUS HD" tvg-logo="https://contentmasters.app/logos/depeliculaplus.png" group-title="Lat | Cinema HD [K]",DE Pelicula PLUS HD
@@ -3803,7 +3798,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1774100
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Freetv Sureno HD" tvg-logo="https://contentmasters.app/logos/freetv-sureno.png" group-title="Lat | Cinema HD [K]",Freetv Sureno HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1774079
 
-Lat | Cinema STD [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="LQ | Antena 3 HD" tvg-logo="https://i.postimg.cc/zG8Nj6B7/Sin-titulo-(800-x-750-px)-20251218-152945-0000.png" group-title="Lat | Cinema STD [K]",LQ | Antena 3 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771460
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="LQ | FOOD Network HD" tvg-logo="https://i.postimg.cc/zG8Nj6B7/Sin-titulo-(800-x-750-px)-20251218-152945-0000.png" group-title="Lat | Cinema STD [K]",LQ | FOOD Network HD
@@ -3877,7 +3871,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771479
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="LQ | Warner Channel HD" tvg-logo="https://i.postimg.cc/zG8Nj6B7/Sin-titulo-(800-x-750-px)-20251218-152945-0000.png" group-title="Lat | Cinema STD [K]",LQ | Warner Channel HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771500
 
-Lat | Colombia [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="COL | Telenostalgia HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele-nostalgia-co.png" group-title="Lat | Colombia [K]",COL | Telenostalgia HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1748410
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="WIN Sports PLUS HD (colombia)" tvg-logo="" group-title="Lat | Colombia [K]",WIN Sports PLUS HD (colombia)
@@ -3941,7 +3934,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/960962
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Colombia - RCN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_RCN_Televisi%C3%B3n.png/1200px-Logo_RCN_Televisi%C3%B3n.png" group-title="Lat | Colombia [K]",Colombia - RCN HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/951592
 
-Lat | Costa Rica [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="Canal11.cr" tvg-name="CR | Canal 1 (t) HD" tvg-logo="https://nubedeappskings.vip/logos/Costa%20Rica/Canal%201.png" group-title="Lat | Costa Rica [K]",CR | Canal 1 (t) HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/827486
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CR | Canal 2 (n) HD" tvg-logo="https://nubedeappskings.vip/logos/Costa%20Rica/Canal%202.png" group-title="Lat | Costa Rica [K]",CR | Canal 2 (n) HD
@@ -4115,7 +4107,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1767160
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CR | Bethel CR HD" tvg-logo="https://i.postimg.cc/CLnJyJ6y/file-00000000f77071f895aa8acb99199aff.png" group-title="Lat | Costa Rica [K]",CR | Bethel CR HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1867316
 
-Lat | Cuba [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CUBA | Claro Sports HD | Op1" tvg-logo="https://equipo.thextv.net:8443/images/uYlFcZ5D3CooCnPuYUaPZcAI_7g_LRMNS7gk2eVYQdWjQJKsLWbZN1bd28X666eeKTYVZau--0sjDjgDyZdQhaAJP8okueYF_OYHN1Mj8swppii52689hsQ0193nYz9rGHOof_ezXeVjNzPjHou-Cg.jpg" group-title="Lat | Cuba [K]",CUBA | Claro Sports HD | Op1
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1794141
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CUBA | Cubamax | Op1 HD" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.8qgmLrsiLPup0L60MkIcdwAAAA?rs=1&pid=ImgDetMain&o=7&rm=" group-title="Lat | Cuba [K]",CUBA | Cubamax | Op1 HD
@@ -4145,7 +4136,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1794154
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CUBA | Telerebelde | Op2 HD" tvg-logo="https://th.bing.com/th/id/R.b41a85dc6b65a9c54451418d589fadea?rik=hjJ1Zgp%2bG2%2fXUA&pid=ImgRaw&r=0" group-title="Lat | Cuba [K]",CUBA | Telerebelde | Op2 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1794155
 
-Lat | Cultura HD [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/fyCChVcH/Sin-titulo-(800-x-750-px)-20251218-153454-0000.png" group-title="Lat | Cultura HD [K]",Animal Planet HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771592
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MAS CHIC HD" tvg-logo="https://i.postimg.cc/fyCChVcH/Sin-titulo-(800-x-750-px)-20251218-153454-0000.png" group-title="Lat | Cultura HD [K]",MAS CHIC HD
@@ -4239,7 +4229,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771613
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="HOLA TV HD" tvg-logo="https://i.postimg.cc/fyCChVcH/Sin-titulo-(800-x-750-px)-20251218-153454-0000.png" group-title="Lat | Cultura HD [K]",HOLA TV HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1769400
 
-Lat | Cultura [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="ElGourmet.mx" tvg-name="EL Gourmet HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQatcIzY2RcJ8dFejOv5WIGyapecp7PBZAvjV8C7zxJIQ&s" group-title="Lat | Cultura [K] ",EL Gourmet HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1490568
 #EXTINF:-1 xm-ott="{ID}" tvg-id="History2.mx" tvg-name="History 2 HD" tvg-logo="https://i.postimg.cc/wT6G8PsW/425-X375-20250206-172821-0000.png" group-title="Lat | Cultura [K] ",History 2 HD
@@ -4275,7 +4264,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/998735
 #EXTINF:-1 xm-ott="{ID}" tvg-id="LoveNature.ca" tvg-name="LOVE Nature FHD" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2018/09/love_nature_logo_white_rgb.png" group-title="Lat | Cultura [K] ",LOVE Nature FHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1339019
 
-Lat | Deportes Costa Rica [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="FUTV.cr" tvg-name="CR | FUTV (n) HD" tvg-logo="https://i.postimg.cc/5tNMh33v/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-20250726-143816-0000.png" group-title="Lat | Deportes Costa Rica [K]",CR | FUTV (n) HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1447907
 #EXTINF:-1 xm-ott="{ID}" tvg-id="FUTV.cr" tvg-name="CR | FUTV (c) HD" tvg-logo="https://i.postimg.cc/5tNMh33v/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-20250726-143816-0000.png" group-title="Lat | Deportes Costa Rica [K]",CR | FUTV (c) HD
@@ -4295,7 +4283,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/964861
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CR | Td+2 HD" tvg-logo="https://i.postimg.cc/2yXw5zRr/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-20250726-145417-0000.png" group-title="Lat | Deportes Costa Rica [K]",CR | Td+2 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1341537
 
-Lat | Deportes SD [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="VSportPremium.se" tvg-name="2 MB | FOX Sports Premium HD" tvg-logo="https://i.postimg.cc/bNz804s8/Sin-titulo-(800-x-750-px)-20251218-154326-0000.png" group-title="Lat | Deportes SD [K]",2 MB | FOX Sports Premium HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771324
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="2mb | UFC Fight PASS HD" tvg-logo="https://i.postimg.cc/bNz804s8/Sin-titulo-(800-x-750-px)-20251218-154326-0000.png" group-title="Lat | Deportes SD [K]",2mb | UFC Fight PASS HD
@@ -4339,7 +4326,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771326
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sports SDT | Goltv" tvg-logo="https://i.postimg.cc/bNz804s8/Sin-titulo-(800-x-750-px)-20251218-154326-0000.png" group-title="Lat | Deportes SD [K]",Sports SDT | Goltv
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1768892
 
-Lat | Deportes [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DEP | Claro Sports GT HD" tvg-logo="https://i.postimg.cc/WzJy1ThP/tyc-20250831-220725-0000.png" group-title="Lat | Deportes [K]",DEP | Claro Sports GT HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1378044
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DEP | TUDN HD (mÉxico)" tvg-logo="https://i.postimg.cc/nLGJFw4R/tyc-20250831-210259-0000.png" group-title="Lat | Deportes [K]",DEP | TUDN HD (mÉxico)
@@ -4427,7 +4413,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1514284
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DEP | TSN 5 CAN HD" tvg-logo="https://nubedeappskings.vip/logos/Deportes/Tsn.png" group-title="Lat | Deportes [K]",DEP | TSN 5 CAN HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1514285
 
-Lat | Directv [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Directv HD (colombia)" tvg-logo="https://i.postimg.cc/Kz8DX4qF/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-850-20250710-131725-0000.png" group-title="Lat | Directv [K]",Directv HD (colombia)
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1004612
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Directv FHD (argentina)" tvg-logo="https://i.postimg.cc/Kz8DX4qF/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-850-20250710-131725-0000.png" group-title="Lat | Directv [K]",Directv FHD (argentina)
@@ -4449,7 +4434,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1004619
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Directv HD (perÚ)" tvg-logo="https://i.postimg.cc/Kz8DX4qF/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-850-20250710-131725-0000.png" group-title="Lat | Directv [K]",Directv HD (perÚ)
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1004622
 
-Lat | Discovery [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="DiscoveryFamiliaEnEspanol.us" tvg-name="D1sc0very Famil1a HD" tvg-logo="https://i.postimg.cc/VkHV1bXd/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-20250727-103714-0000.png" group-title="Lat | Discovery [K]",D1sc0very Famil1a HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1537767
 #EXTINF:-1 xm-ott="{ID}" tvg-id="DiscoveryChannel.mx" tvg-name="D!$c0v3ry Ch4^^el HD" tvg-logo="https://i.postimg.cc/VkHV1bXd/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-20250727-103714-0000.png" group-title="Lat | Discovery [K]",D!$c0v3ry Ch4^^el HD
@@ -4469,7 +4453,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/851148
 #EXTINF:-1 xm-ott="{ID}" tvg-id="DiscoveryTurbo.mx" tvg-name="D1$c0v3ry Tur80 HD" tvg-logo="https://i.postimg.cc/VkHV1bXd/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-20250727-103714-0000.png" group-title="Lat | Discovery [K]",D1$c0v3ry Tur80 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/851149
 
-Lat | Ecuador Deportes ⚽ [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="EC | Z⚽pping •1 HD" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="Lat | Ecuador Deportes ⚽ [K]",EC | Z⚽pping •1 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1444963
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="EC | Z⚽pping •2 HD" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="Lat | Ecuador Deportes ⚽ [K]",EC | Z⚽pping •2 HD
@@ -4489,7 +4472,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1444967
 #EXTINF:-1 xm-ott="{ID}" tvg-id="M+Deportes2.es" tvg-name="EC L D$ports FHD •2" tvg-logo="https://i.postimg.cc/KcKTJ717/DTV-SD.png" group-title="Lat | Ecuador Deportes ⚽ [K]",EC L D$ports FHD •2
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1444968
 
-Lat | Ecuador [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="EC | RTU HD" tvg-logo="" group-title="Lat | Ecuador [K]",EC | RTU HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1514904
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="EC | Teleamazonas Costa HD" tvg-logo="https://i.postimg.cc/435vZQWq/images-4.png" group-title="Lat | Ecuador [K]",EC | Teleamazonas Costa HD
@@ -4561,7 +4543,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1788486
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="EC | Quenta TV HD" tvg-logo="https://contentmasters.app/logos/quenta.png" group-title="Lat | Ecuador [K]",EC | Quenta TV HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1788488
 
-Lat | El Salvador [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TIGO Sport 3 Evento HD" tvg-logo="" group-title="Lat | El Salvador [K]",TIGO Sport 3 Evento HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1868646
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Centroamerica TV HD" tvg-logo="" group-title="Lat | El Salvador [K]",Centroamerica TV HD
@@ -4615,7 +4596,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1399188
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SV | TV LeÓn DE JudÁ HD" tvg-logo="https://nubedeappskings.vip/logos/El%20Salvador/Leon%20de%20Juda.png" group-title="Lat | El Salvador [K]",SV | TV LeÓn DE JudÁ HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1399191
 
-Lat | Espn [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ESPN Deportes FHD" tvg-logo="https://i.postimg.cc/YqCKXxfy/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-850-20250710-131102-0000.png" group-title="Lat | Espn [K]",ESPN Deportes FHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/863666
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ESPN Deportes HD" tvg-logo="https://i.postimg.cc/YqCKXxfy/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-850-20250710-131102-0000.png" group-title="Lat | Espn [K]",ESPN Deportes HD
@@ -4663,7 +4643,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/863714
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ESPN FHD (usa)" tvg-logo="https://i.postimg.cc/YqCKXxfy/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-850-20250710-131102-0000.png" group-title="Lat | Espn [K]",ESPN FHD (usa)
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/863655
 
-Lat | F1-Nascar-MotoGP [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="F1 | SKY Sports F1 (izzi) HD" tvg-logo="https://i.postimg.cc/Kvt3zCxX/800x750-20251128-162118-0000.png" group-title="Lat | F1-Nascar-MotoGP [K]",F1 | SKY Sports F1 (izzi) HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1394039
 #EXTINF:-1 xm-ott="{ID}" tvg-id="SkySportF1.it" tvg-name="F1 | SKY Sports F1 FHD" tvg-logo="https://i.postimg.cc/Kvt3zCxX/800x750-20251128-162118-0000.png" group-title="Lat | F1-Nascar-MotoGP [K]",F1 | SKY Sports F1 FHD
@@ -4673,7 +4652,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1487805
 #EXTINF:-1 xm-ott="{ID}" tvg-id="DAZNF1.es" tvg-name="F1 | DAZN F1 HD" tvg-logo="https://i.postimg.cc/Kvt3zCxX/800x750-20251128-162118-0000.png" group-title="Lat | F1-Nascar-MotoGP [K]",F1 | DAZN F1 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1489284
 
-Lat | Fox One [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MX | FOX HD" tvg-logo="https://i.postimg.cc/rmVymFH4/file-00000000b11072099f369b5111f56d63.png" group-title="Lat | Fox One [K]",MX | FOX HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1742182
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="FOX ONE 1 HD" tvg-logo="https://i.postimg.cc/rmVymFH4/file-00000000b11072099f369b5111f56d63.png" group-title="Lat | Fox One [K]",FOX ONE 1 HD
@@ -4693,7 +4671,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1742180
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MX | FOX ONE 8 HD" tvg-logo="https://i.postimg.cc/rmVymFH4/file-00000000b11072099f369b5111f56d63.png" group-title="Lat | Fox One [K]",MX | FOX ONE 8 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1742181
 
-Lat | Fox Sports [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="beINSPORTS1.fr" tvg-name="Dep| FOX Sports 1 (mexico) HD" tvg-logo="https://i.postimg.cc/DyFRSPMw/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-850-20250710-130258-0000.png" group-title="Lat | Fox Sports [K]",Dep| FOX Sports 1 (mexico) HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1410020
 #EXTINF:-1 xm-ott="{ID}" tvg-id="beINSPORTS2.fr" tvg-name="Dep| FOX Sports 2 (mÉxico) HD" tvg-logo="https://i.postimg.cc/DyFRSPMw/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-850-20250710-130258-0000.png" group-title="Lat | Fox Sports [K]",Dep| FOX Sports 2 (mÉxico) HD
@@ -4720,7 +4697,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1410120
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1410027
 #EXTINF:-1 xm-ott="{ID}" tvg-id="NSW-SydneyFoxSportsUltra.au" tvg-name="Usa| FOX Sports South EAST HD" tvg-logo="https://i.postimg.cc/DyFRSPMw/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-850-20250710-130258-0000.png" group-title="Lat | Fox Sports [K]",Usa| FOX Sports South EAST HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1410050
-Lat | Hbo [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="HBOXtreme.cr" tvg-name="HBO Xtreme •• (dual Audio) HD" tvg-logo="https://nubedeappskings.vip/logos/storage/hboxtreme.png" group-title="Lat | Hbo [K]",HBO Xtreme •• (dual Audio) HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1007093
 #EXTINF:-1 xm-ott="{ID}" tvg-id="HBOPop.cr" tvg-name="HBO POP • (dual Audio) HD" tvg-logo="https://nubedeappskings.vip/logos/storage/hbopop.png" group-title="Lat | Hbo [K]",HBO POP • (dual Audio) HD
@@ -4750,7 +4726,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1007404
 #EXTINF:-1 xm-ott="{ID}" tvg-id="HBOMundi.mx" tvg-name="HBO Mundi (dual Audio) HD" tvg-logo="https://nubedeappskings.vip/logos/storage/hbomundi.png" group-title="Lat | Hbo [K]",HBO Mundi (dual Audio) HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1007405
 
-Lat | Honduras [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="HN | TVC Deportes FHD" tvg-logo="https://i.postimg.cc/J0XGqYbr/tyc-20250915-171359-0000.png" group-title="Lat | Honduras [K]",HN | TVC Deportes FHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/870301
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="HN | TVC Deportes HD" tvg-logo="https://i.postimg.cc/J0XGqYbr/tyc-20250915-171359-0000.png" group-title="Lat | Honduras [K]",HN | TVC Deportes HD
@@ -4832,7 +4807,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/918135
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="HN | DTV HD" tvg-logo="https://i.postimg.cc/x1T4NwGS/tyc-20250915-165114-0000.png" group-title="Lat | Honduras [K]",HN | DTV HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/918151
 
-Lat | Infantil [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="BabyTV.cr" tvg-name="Babyfirts HD" tvg-logo="https://nubedeappskings.vip/logos/storage/babyfirts.png" group-title="Lat | Infantil [K]",Babyfirts HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1768628
 #EXTINF:-1 xm-ott="{ID}" tvg-id="DisneyJunior.mx" tvg-name="Disney JR HD" tvg-logo="https://nubedeappskings.vip/logos/storage/disneyjr.png" group-title="Lat | Infantil [K]",Disney JR HD
@@ -4860,7 +4834,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/958484
 #EXTINF:-1 xm-ott="{ID}" tvg-id="BabyTV.mx" tvg-name="BABY TV HD" tvg-logo="https://nubedeappskings.vip/logos/storage/babytv.png" group-title="Lat | Infantil [K]",BABY TV HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/958490
 
-Lat | Izzi [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="[izzigo] AMC HD" tvg-logo="https://i.postimg.cc/pyNjcxPR/Sin-titulo-(800-x-750-px)-20251223-030613-0000.png" group-title="Lat | Izzi [K]",[izzigo] AMC HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1770704
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="[izzigo] Animal Planet HD" tvg-logo="https://i.postimg.cc/pyNjcxPR/Sin-titulo-(800-x-750-px)-20251223-030613-0000.png" group-title="Lat | Izzi [K]",[izzigo] Animal Planet HD
@@ -5054,7 +5027,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1770820
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="[izzigo] Universal Reality HD" tvg-logo="https://i.postimg.cc/pyNjcxPR/Sin-titulo-(800-x-750-px)-20251223-030613-0000.png" group-title="Lat | Izzi [K]",[izzigo] Universal Reality HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1770821
 
-Lat | Liga Española [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="L | M# \@ \!g@ FHD (d)" tvg-logo="https://i.postimg.cc/rpvRHytz/tyc-20251005-085250-0000.png" group-title="Lat | Liga Española [K]",L | M# \@ \!g@ FHD (d)
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1385002
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="L | M# \@ \!g@ HD (d)" tvg-logo="https://i.postimg.cc/rpvRHytz/tyc-20251005-085250-0000.png" group-title="Lat | Liga Española [K]",L | M# \@ \!g@ HD (d)
@@ -5086,7 +5058,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1467574
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="L | SKY Sports HD" tvg-logo="https://i.postimg.cc/rpvRHytz/tyc-20251005-085250-0000.png" group-title="Lat | Liga Española [K]",L | SKY Sports HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1035178
 
-Lat | Ligue 1 [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="L1 | Caliente TV HD" tvg-logo="https://i.postimg.cc/8k6wB1zq/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-20250726-113308-0000.png" group-title="Lat | Ligue 1 [K]",L1 | Caliente TV HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1449578
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="L1 | BEIN Sports USA HD" tvg-logo="https://i.postimg.cc/8k6wB1zq/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-20250726-113308-0000.png" group-title="Lat | Ligue 1 [K]",L1 | BEIN Sports USA HD
@@ -5100,7 +5071,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1449582
 #EXTINF:-1 xm-ott="{ID}" tvg-id="VSportExtra.se" tvg-name="L1 | BEIN Sports XTRA USA HD" tvg-logo="https://i.postimg.cc/8k6wB1zq/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-20250726-113308-0000.png" group-title="Lat | Ligue 1 [K]",L1 | BEIN Sports XTRA USA HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1449583
 
-Lat | México Deportes⚽
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MX | ESPN HD® MX*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Lat | México Deportes⚽",MX | ESPN HD® MX*
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1886847
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MX | AYM SPORTS MX UHD" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/aym_spor ts-600x540-425346095.png" group-title="Lat | México Deportes⚽",MX | AYM SPORTS MX UHD
@@ -5152,7 +5122,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1886849
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MX | ESPN 4 (Eventos) FHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Caliente_TV_Logo.png" group-title="Lat | México Deportes⚽",MX | ESPN 4 (Eventos) FHD®
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1886871
 
-Lat | México [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="Azteca13.mx" tvg-name="MX | Azteca 1 HD" tvg-logo="https://i.postimg.cc/2ym77V1p/Flag-of-Mexico-svg.png" group-title="Lat | México [K]",MX | Azteca 1 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1512976
 #EXTINF:-1 xm-ott="{ID}" tvg-id="FOROtv.mx" tvg-name="MX | FORO TV HD" tvg-logo="https://i.postimg.cc/2ym77V1p/Flag-of-Mexico-svg.png" group-title="Lat | México [K]",MX | FORO TV HD
@@ -5298,13 +5267,11 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1446712
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MX | TUDN SD" tvg-logo="https://i.postimg.cc/2ym77V1p/Flag-of-Mexico-svg.png" group-title="Lat | México [K]",MX | TUDN SD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1446715
 
-Lat | Música [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MU | Telehit HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Telehit_2018.png/revision/latest?cb=20191215014742&path-prefix=es" group-title="Lat | Música [K]",MU | Telehit HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1410268
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SOY Plancha TV | CR HD" tvg-logo="https://cdn.m3u.cl/logo/1064_Soy_Plancha_TV.png" group-title="Lat | Música [K]",SOY Plancha TV | CR HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/977513
 
-Lat | Nicaragua [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Nic: Canal 10 HD" tvg-logo="https://1.bp.blogspot.com/-dCX-NBEP-To/XFJ7jdkdjHI/AAAAAAAAFLw/1eMUnByAm4knwbvirJTSq5xS6XFlYWsBQCLcBGAs/s1600/Canal_10_Nicaragua_1997.png" group-title="Lat | Nicaragua [K] ",Nic: Canal 10 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1337105
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Nic: Canal 2 HD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-2-Televicentro-en-vivo-Online.png" group-title="Lat | Nicaragua [K] ",Nic: Canal 2 HD
@@ -5322,7 +5289,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1337113
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Nic: Canal 4 HD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Nicaragua-en-vivo-Online.png" group-title="Lat | Nicaragua [K] ",Nic: Canal 4 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1337114
 
-Lat | Noticias [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CNN EN EspaÑol HD" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/CNN-en-Espa%C3%B1ol-en-directo-Online.png?resize=696%2C392&ssl=1" group-title="Lat | Noticias [K]",CNN EN EspaÑol HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1444983
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CNN Internacional HD" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/CNN-en-Espa%C3%B1ol-en-directo-Online.png?resize=696%2C392&ssl=1" group-title="Lat | Noticias [K]",CNN Internacional HD
@@ -5354,7 +5320,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1444998
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" group-title="Lat | Noticias [K]",TN HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1444999
 
-Lat | Panamá [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PAN | Bocas TV HD" tvg-logo="https://1.bp.blogspot.com/-ZwwKzYXCb04/YUNYMhZhv9I/AAAAAAAAQmA/3pmjIC7rUWAtlVO_wfMuF_qYs8WDmw0ogCLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2BBTV%2Ben%2Bvivo.png" group-title="Lat | Panamá [K]",PAN | Bocas TV HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1765890
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PA | SER TV Deportes HD" tvg-logo="" group-title="Lat | Panamá [K]",PA | SER TV Deportes HD
@@ -5388,7 +5353,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1340508
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PAN |next TV 21 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1200px-Flag_of_Panama.svg.png" group-title="Lat | Panamá [K]",PAN |next TV 21 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1340517
 
-Lat | Paraguay [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Pry: ABC TV HD" tvg-logo="https://logos-world.net/wp-content/uploads/2020/06/ABC-Logo.png" group-title="Lat | Paraguay [K]",Pry: ABC TV HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1025737
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Pry: ABC Ñanduti TV ᴾᴬᴿᴬᴳᵁᴬᵞ ᴴᴰ HD" tvg-logo="http://127.0.0.1/" group-title="Lat | Paraguay [K]",Pry: ABC Ñanduti TV ᴾᴬᴿᴬᴳᵁᴬᵞ ᴴᴰ HD
@@ -5436,7 +5400,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1446101
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PY | TIGO Sports HD" tvg-logo="https://1.bp.blogspot.com/-EjDdboTDdFs/YQGj6XmfHxI/AAAAAAABHkA/ZKwbZDX2ODI3TYVniXyqwyst53ONoEPGgCLcBGAsYHQ/w1200-h630-p-k-no-nu/tigo-sports-1494.png" group-title="Lat | Paraguay [K]",PY | TIGO Sports HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1511308
 
-Lat | Perú [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PER | RPP Op1 HD" tvg-logo="https://i.ibb.co/28sd77X/PE-RPP.png" group-title="Lat | Perú [K] ",PER | RPP Op1 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1500100
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PER | Latina Op1 HD" tvg-logo="https://yt3.googleusercontent.com/JySp5g8rAykCp7Ytm6K2rMbTKXbli4iAU3Br8BOgEhfgl6gjHfkJ5CPMQiG4ULavMLttZSzoYw=s900-c-k-c0x00ffffff-no-rj" group-title="Lat | Perú [K] ",PER | Latina Op1 HD
@@ -5518,7 +5481,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1384560
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Per: PERU Magico SDT *" tvg-logo="http://127.0.0.1/" group-title="Lat | Perú [K] ",Per: PERU Magico SDT *
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1384563
 
-Lat | Premier League [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PL | NBC Universo HD" tvg-logo="https://i.postimg.cc/QMs5C930/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-20250722-135815-0000.png" group-title="Lat | Premier League [K]",PL | NBC Universo HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1447390
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PL | Telemundo HD" tvg-logo="https://i.postimg.cc/QMs5C930/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-20250722-135815-0000.png" group-title="Lat | Premier League [K]",PL | Telemundo HD
@@ -5544,7 +5506,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1447398
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PL | USA Network HD" tvg-logo="https://i.postimg.cc/QMs5C930/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-20250722-135815-0000.png" group-title="Lat | Premier League [K]",PL | USA Network HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1447397
 
-Lat | Puerto Rico [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PR | Telemundo FHD" tvg-logo="https://contentmasters.app/logos/telemundo-pr.png" group-title="Lat | Puerto Rico [K]",PR | Telemundo FHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1799961
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PR | TELE Norte Mayaguez HD" tvg-logo="https://contentmasters.app/logos/tele-norte-pr.png" group-title="Lat | Puerto Rico [K]",PR | TELE Norte Mayaguez HD
@@ -5688,7 +5649,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1764440
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PR | TIVA TV HD" tvg-logo="https://i.imgur.com/YtTlZq3.png" group-title="Lat | Puerto Rico [K]",PR | TIVA TV HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1764441
 
-Lat | R. Dominicana [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RD | Antena 7 HD" tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="Lat | R. Dominicana [K]",RD | Antena 7 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1871457
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Manaclar Television HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3445-294x165-FFFFFF.jpg" group-title="Lat | R. Dominicana [K]",Manaclar Television HD
@@ -5858,7 +5818,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1871480
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="VTV Canal 32 HD" tvg-logo="https://i.imgur.com/qjm4B0J.png" group-title="Lat | R. Dominicana [K]",VTV Canal 32 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1871540
 
-Lat | Religión [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Cadena DE Milagro HD" tvg-logo="https://cdminternacional.com/wp-content/uploads/2022/05/cropped-cropped-cdm-redondo-1.png" group-title="Lat | Religión [K]",Cadena DE Milagro HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1518460
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Jn19 | PE HD" tvg-logo="https://cdn.m3u.cl/logo/690_JN19.png" group-title="Lat | Religión [K]",Jn19 | PE HD
@@ -5894,7 +5853,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1375453
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="VIDA Television | US HD" tvg-logo="https://cdn.m3u.cl/logo/843_Vida_Television.png" group-title="Lat | Religión [K]",VIDA Television | US HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1375457
 
-Lat | Serie A [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Serie A | Dazn2 BAR HD" tvg-logo="https://i.postimg.cc/pX5sGFMZ/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-20250726-142040-0000.png" group-title="Lat | Serie A [K]",Serie A | Dazn2 BAR HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1509657
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Serie A | ESPN 1 ARG HD" tvg-logo="https://i.postimg.cc/pX5sGFMZ/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-20250726-142040-0000.png" group-title="Lat | Serie A [K]",Serie A | ESPN 1 ARG HD
@@ -5920,7 +5878,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1509659
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Serie A | S.p.o.r.tv 2 POR HD" tvg-logo="https://i.postimg.cc/pX5sGFMZ/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-20250726-142040-0000.png" group-title="Lat | Serie A [K]",Serie A | S.p.o.r.tv 2 POR HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1509651
 
-Lat | Telenovelas [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Novelas | RCN Novelas HD" tvg-logo="https://i.postimg.cc/RCpsM08V/Sin-t-tulo-310-x-275-px-20240806-202334-0000.png" group-title="Lat | Telenovelas [K]",Novelas | RCN Novelas HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/325111
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Novelas | A3series HD" tvg-logo="https://i.postimg.cc/fy86sjdw/Sin-t-tulo-310-x-275-px-20240806-202159-0000.png" group-title="Lat | Telenovelas [K]",Novelas | A3series HD
@@ -5938,7 +5895,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/325124
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Novelas | Kanal D HD" tvg-logo="https://i.postimg.cc/KzhJCx75/Sin-t-tulo-310-x-275-px-20240806-184922-0000.png" group-title="Lat | Telenovelas [K]",Novelas | Kanal D HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/325132
 
-Lat | USA Galavision [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="GalavisionPacific.us" tvg-name="LAT | Galavision WEST HD" tvg-logo="https://i.postimg.cc/597YL3J3/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-20250709-205051-0000.png" group-title="Lat | USA Galavision [K]",LAT | Galavision WEST HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1336994
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="LAT | Galavision NEW YORK HD" tvg-logo="https://i.postimg.cc/597YL3J3/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-20250709-205051-0000.png" group-title="Lat | USA Galavision [K]",LAT | Galavision NEW YORK HD
@@ -5960,7 +5916,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1337099
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="LAT | Galavision EAST HD" tvg-logo="https://i.postimg.cc/597YL3J3/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-20250709-205051-0000.png" group-title="Lat | USA Galavision [K]",LAT | Galavision EAST HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1337100
 
-Lat | USA Telemundo [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="TelemundoWZDC.us" tvg-name="TEL | Telemundo 44 Washington HD" tvg-logo="https://i.postimg.cc/jj3mz2xC/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-850-20250709-211804-0000.png" group-title="Lat | USA Telemundo [K]",TEL | Telemundo 44 Washington HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1337003
 #EXTINF:-1 xm-ott="{ID}" tvg-id="TelemundoKVDA.us" tvg-name="TEL | Telemundo 60 SAN Antonio HD" tvg-logo="https://i.postimg.cc/jj3mz2xC/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-850-20250709-211804-0000.png" group-title="Lat | USA Telemundo [K]",TEL | Telemundo 60 SAN Antonio HD
@@ -6018,7 +5973,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1337070
 #EXTINF:-1 xm-ott="{ID}" tvg-id="Telemundo.pr" tvg-name="TEL | Telemundo 39 TX HD" tvg-logo="https://i.postimg.cc/jj3mz2xC/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-850-20250709-211804-0000.png" group-title="Lat | USA Telemundo [K]",TEL | Telemundo 39 TX HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1337072
 
-Lat | USA Unimás [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="LAT | Unimas EAST HD" tvg-logo="https://i.postimg.cc/q7LtvfGk/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-850-20250709-214150-0000.png" group-title="Lat | USA Unimás [K]",LAT | Unimas EAST HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1336976
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="LAT | Unimas Alvin HD" tvg-logo="https://i.postimg.cc/q7LtvfGk/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-850-20250709-214150-0000.png" group-title="Lat | USA Unimás [K]",LAT | Unimas Alvin HD
@@ -6044,7 +5998,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1337081
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="LAT | Unimas Miami HD" tvg-logo="https://i.postimg.cc/q7LtvfGk/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-850-20250709-214150-0000.png" group-title="Lat | USA Unimás [K]",LAT | Unimas Miami HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1337088
 
-Lat | USA Univision [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="LAT |univision Washington HD" tvg-logo="https://i.postimg.cc/bdcYRLRC/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-850-20250709-214358-0000.png" group-title="Lat | USA Univision [K]",LAT |univision Washington HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1406064
 #EXTINF:-1 xm-ott="{ID}" tvg-id="UnivisionKWEX.us" tvg-name="LAT | Univision SAN Antonio HD" tvg-logo="https://i.postimg.cc/bdcYRLRC/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-850-20250709-214358-0000.png" group-title="Lat | USA Univision [K]",LAT | Univision SAN Antonio HD
@@ -6084,7 +6037,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1336973
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="LAT | Univision Green Valley HD" tvg-logo="https://i.postimg.cc/bdcYRLRC/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-850-20250709-214358-0000.png" group-title="Lat | USA Univision [K]",LAT | Univision Green Valley HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1336974
 
-Lat | Ultra [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Y Series HD | Ultra CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdK4atig_Rq5lhmp6gWB08NAaTGC0oeUGbWw&s" group-title="Lat | Ultra [K]",CINE Y Series HD | Ultra CINE
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1520829
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Y Series HD | Ultra Clasico" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/09/Ultra_clasico_Logo.png" group-title="Lat | Ultra [K]",CINE Y Series HD | Ultra Clasico
@@ -6100,7 +6052,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1520834
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Y Series HD | Ultra MEX" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/11/Ultra-Mex-Logo.png" group-title="Lat | Ultra [K]",CINE Y Series HD | Ultra MEX
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1520835
 
-Lat | Universal+ [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="UniversalCrime.mx" tvg-name="Universal Crime HD" tvg-logo="https://i.postimg.cc/jjr0sL9h/425-X375-20250223-210844-0000.png" group-title="Lat | Universal+ [K]",Universal Crime HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1006831
 #EXTINF:-1 xm-ott="{ID}" tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy FHD" tvg-logo="https://i.postimg.cc/jjr0sL9h/425-X375-20250223-210844-0000.png" group-title="Lat | Universal+ [K]",Universal Comedy FHD
@@ -6128,7 +6079,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1006849
 #EXTINF:-1 xm-ott="{ID}" tvg-id="StudioUniversal.mx" tvg-name="Studio Universal FHD" tvg-logo="https://i.postimg.cc/jjr0sL9h/425-X375-20250223-210844-0000.png" group-title="Lat | Universal+ [K]",Studio Universal FHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1006910
 
-Lat | Uruguay [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="UY | Canal 10 ᴴᴰ HD" tvg-logo="https://contentmasters.app/logos/canal10-2.png" group-title="Lat | Uruguay [K]",UY | Canal 10 ᴴᴰ HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1790729
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="UY | Canal 10 HD" tvg-logo="https://contentmasters.app/logos/canal10-2.png" group-title="Lat | Uruguay [K]",UY | Canal 10 HD
@@ -6192,7 +6142,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1410130
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="URU : Canal 4 HD" tvg-logo="https://contentmasters.app/logos/canal4-1.png" group-title="Lat | Uruguay [K]",URU : Canal 4 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1410131
 
-Lat | Venezuela [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="VENE Globovision HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfoPxL4gLbHmG36qkp82hNeh6XiD1nxZAPQg&s" group-title="Lat | Venezuela [K]",VENE Globovision HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1793754
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="VN | TLT SD (e) | Op2" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.9vcbGQSepJBHNLXX0jxCWgHaEo?rs=1&pid=ImgDetMain&cb=idpwebpc2" group-title="Lat | Venezuela [K]",VN | TLT SD (e) | Op2
@@ -6238,7 +6187,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1375233
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Ven: Globovision TV HD" tvg-logo="https://www.globovision.com/static/img/gv-logo.png" group-title="Lat | Venezuela [K]",Ven: Globovision TV HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1375252
 
-Lat | Vix+ [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ADN 40 HD" tvg-logo="https://i.postimg.cc/2SrDPCmd/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-750-px-20251021-212332-0000.png" group-title="Lat | Vix+ [K]",ADN 40 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1341508
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Azteca Cinema HD" tvg-logo="https://i.postimg.cc/2SrDPCmd/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-750-px-20251021-212332-0000.png" group-title="Lat | Vix+ [K]",Azteca Cinema HD
@@ -6286,7 +6234,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1341532
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="VIX DE Peliculas PLUS HD" tvg-logo="https://i.postimg.cc/2SrDPCmd/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-750-px-20251021-212332-0000.png" group-title="Lat | Vix+ [K]",VIX DE Peliculas PLUS HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1341533
 
-Es | Dazn [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="DAZNF1.es" tvg-name="DAZN F1 HD" tvg-logo="https://i.postimg.cc/0QVZr7Mb/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-850-20250710-131346-0000.png" group-title="Es | Dazn [K]",DAZN F1 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1412586
 #EXTINF:-1 xm-ott="{ID}" tvg-id="DAZN1NL.be" tvg-name="DAZN 1 HD" tvg-logo="https://i.postimg.cc/0QVZr7Mb/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-850-20250710-131346-0000.png" group-title="Es | Dazn [K]",DAZN 1 HD
@@ -6302,7 +6249,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1412591
 #EXTINF:-1 xm-ott="{ID}" tvg-id="DAZN2NL.be" tvg-name="DAZN 2 HD" tvg-logo="https://i.postimg.cc/0QVZr7Mb/Sin-t-tulo-650-x-375-px-650-x-650-px-800-x-650-px-800-x-750-px-850-20250710-131346-0000.png" group-title="Es | Dazn [K]",DAZN 2 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1412592
 
-Eu | España Cultura [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DMAX HD" tvg-logo="http://1545es.online:80/images/QupVps96AQ6tQkBCTzXwJ0nEh1xOMwL-mstbTvMYq08.png" group-title="Eu | España Cultura [K]",DMAX HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1337711
 #EXTINF:-1 xm-ott="{ID}" tvg-id="IberaliaTV.es" tvg-name="Iberalia TV HD" tvg-logo="http://1545es.online:80/images/QupVps96AQ6tQkBCTzXwJ4GROzQZE23k_kyyXnvGTow.png" group-title="Eu | España Cultura [K]",Iberalia TV HD
@@ -6328,7 +6274,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1337730
 #EXTINF:-1 xm-ott="{ID}" tvg-id="Cazavision.es" tvg-name="Cazavision HD" tvg-logo="http://1545es.online:80/images/QupVps96AQ6tQkBCTzXwJx0s41qwuHHiJvTBmTxFRYw.png" group-title="Eu | España Cultura [K]",Cazavision HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1337733
 
-Eu | España Deportes [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ESP-4: MOVISTAR LIGA DE CAMPEONES 4 (Solo Eventos)" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="Eu | España Deportes [K]",ESP-4: MOVISTAR LIGA DE CAMPEONES 4 (Solo Eventos)
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1905664
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ESP-4: M+ Ellas #Vamos HD (720P)" tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/12/la-supercopa-de-espana-se-emitira-exclusivamente-en-movistar-2.jpg?width=768&aspect_ratio=16:9&format=nowebp" group-title="Eu | España Deportes [K]",ESP-4: M+ Ellas #Vamos HD (720P)
@@ -6640,7 +6585,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1337742
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Onetoro TV FHD" tvg-logo="http://1545es.online:80/images/QupVps96AQ6tQkBCTzXwJyMUxMHyZ9nIZFz1u2kKrN4.png" group-title="Eu | España Deportes [K]",Onetoro TV FHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1337764
 
-Eu | España Entretenimiento [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ESP-3: MOVISTAR  0# ᴇsᴘᴀɴᴀ ᴴᴰ" tvg-logo="" group-title="Eu | España Entretenimiento [K] ",ESP-3: MOVISTAR  0# ᴇsᴘᴀɴᴀ ᴴᴰ
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1886993
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ESP-2: AMC" tvg-logo="" group-title="Eu | España Entretenimiento [K] ",ESP-2: AMC
@@ -6804,7 +6748,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1337659
 #EXTINF:-1 xm-ott="{ID}" tvg-id="AMCBreak.es" tvg-name="AMC Break HD" tvg-logo="http://1545es.online:80/images/QupVps96AQ6tQkBCTzXwJ7lhCxYFqoDqMW2bBq18TiM.png" group-title="Eu | España Entretenimiento [K] ",AMC Break HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1337665
 
-Eu | España Infantil [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="DisneyChannel.es" tvg-name="Disney Channel HD" tvg-logo="http://1545es.online:80/images/QupVps96AQ6tQkBCTzXwJ0F-PWyMMWn048djUnoyX1I.png" group-title="Eu | España Infantil [K] ",Disney Channel HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1337699
 #EXTINF:-1 xm-ott="{ID}" tvg-id="DisneyChannel.es" tvg-name="Disney Channel FHD" tvg-logo="http://1545es.online:80/images/QupVps96AQ6tQkBCTzXwJ-jCkOFMG1XXM9SOxVzbp5c.png" group-title="Eu | España Infantil [K] ",Disney Channel FHD
@@ -6822,7 +6765,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1337705
 #EXTINF:-1 xm-ott="{ID}" tvg-id="Dreamworks.es" tvg-name="Dreamworks HD" tvg-logo="http://1545es.online:80/images/QupVps96AQ6tQkBCTzXwJwH_hv6sf8hwQye822iJZjE.png" group-title="Eu | España Infantil [K] ",Dreamworks HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1337708
 
-Eu | España [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="es|| TV3" tvg-logo="" group-title="Eu | España [K]",es|| TV3
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1929975
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Es: LA Sexta FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/712px-La_Sexta_%28A3M%29.svg.png" group-title="Eu | España [K]",Es: LA Sexta FHD
@@ -6950,7 +6892,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1337607
 #EXTINF:-1 xm-ott="{ID}" tvg-id="XTRM.es" tvg-name="XTRM HD" tvg-logo="https://i.imgur.com/746R14J.png" group-title="Eu | España [K]",XTRM HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1337627
 
-Eng | Canada Sports [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="AXN HD" tvg-logo="http://127.0.0.1/" group-title="Eng | Canada Sports [K]",AXN HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1785710
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="AXN HD" tvg-logo="http://127.0.0.1/" group-title="Eng | Canada Sports [K]",AXN HD
@@ -6958,7 +6899,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1785711
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="AXN HD" tvg-logo="http://127.0.0.1/" group-title="Eng | Canada Sports [K]",AXN HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1785713
 
-Eng | Canada [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Smithsonian - CA HD" tvg-logo="http://lotv.plus:80/images/RAVc9W3EusmtfztCUnWVKILGBjuS8ms503y7N5ykvKmyOsQ9dvhDDKyEAlbFv8HHManFD2dCQbJcaGGPeOsYU_Fzco6NtAqBd7MZ3aLSsbeLVfiHHNmzvgizi6Ka1rlS.jpg" group-title="Eng | Canada [K]",Smithsonian - CA HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1783552
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="History - CA HD" tvg-logo="http://lotv.plus:80/images/QCqX5p5x3Y181Q8jwb82JONfdPk0BG4jr4A5GWmiM-haw8xdhbUvDqVeofiO8VtW.jpg" group-title="Eng | Canada [K]",History - CA HD
@@ -7142,7 +7082,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1783486
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sportsnet Pacific - CA HD" tvg-logo="https://luxplayer.norago.tv/img/upload/ae/97/dfed-8a31-4b0f-9116-b5d7cef2d09a.png" group-title="Eng | Canada [K]",Sportsnet Pacific - CA HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1783551
 
-Eng | USA CBS [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CBS 12 KWCH Weather Channel / Always ON Storm TEAM 12 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Eng | USA CBS [K]",CBS 12 KWCH Weather Channel / Always ON Storm TEAM 12 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1450073
 #EXTINF:-1 xm-ott="{ID}" tvg-id="CBSNewsBaltimore.pluto" tvg-name="CBS NEWS Baltimore HD" tvg-logo="https://i.imgur.com/jy3UfCe.png" group-title="Eng | USA CBS [K]",CBS NEWS Baltimore HD
@@ -7188,7 +7127,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1450098
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Wkmg-dt1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Eng | USA CBS [K]",Wkmg-dt1 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1450100
 
-Eng | USA Cinema [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Us: A&e HD" tvg-logo="https://static.epg.best/us/AandE.us.png" group-title="Eng | USA Cinema [K]",Us: A&e HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1861438
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Us: POP HD" tvg-logo="https://technetnetwork.com/logos/usa/POP.png" group-title="Eng | USA Cinema [K]",Us: POP HD
@@ -7520,7 +7458,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1386580
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="USA | Gettv HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" group-title="Eng | USA Cinema [K]",USA | Gettv HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1386616
 
-Eng | USA Documentarios [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="DiscoveryLifeChannel.us" tvg-name="Us: Discovery ID HD" tvg-logo="" group-title="Eng | USA Documentarios [K]",Us: Discovery ID HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1520248
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Us: Tl¢ HD" tvg-logo="" group-title="Eng | USA Documentarios [K]",Us: Tl¢ HD
@@ -7560,7 +7497,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1517682
 #EXTINF:-1 xm-ott="{ID}" tvg-id="NationalGeographic.us" tvg-name="Us: National Geographic FHD" tvg-logo="https://yt3.googleusercontent.com/zlrIrwfsDeZMqJvjwVDcml3QjpogsEYSErjM6QVn45NpICNJjmgLur-oYH_Cih9Dn-4OCnk76Q=s900-c-k-c0x00ffffff-no-rj" group-title="Eng | USA Documentarios [K]",Us: National Geographic FHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1517683
 
-Eng | USA Fox [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="AK | Anchorage | FOX - KTBY 4 HD" tvg-logo="https://iprime.live:30003/images/gvF1JjV9JXSV1UkILJbzr_YuS30JhgH1_JRc2xwwwLhunIffJ3kukIOVu3PR3S-osYNn_I8MTCoTsrN6L45lTg.jpg" group-title="Eng | USA Fox [K]",AK | Anchorage | FOX - KTBY 4 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1513696
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="OK | Oklahoma CITY | FOX - KOKH HD" tvg-logo="https://iprime.live:30003/images/gvF1JjV9JXSV1UkILJbzr_YuS30JhgH1_JRc2xwwwLhunIffJ3kukIOVu3PR3S-osYNn_I8MTCoTsrN6L45lTg.jpg" group-title="Eng | USA Fox [K]",OK | Oklahoma CITY | FOX - KOKH HD
@@ -7828,7 +7764,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1513685
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="WY | Cheyenne-scottsbluff | FOX - KLWY HD" tvg-logo="https://iprime.live:30003/images/gvF1JjV9JXSV1UkILJbzr_YuS30JhgH1_JRc2xwwwLhunIffJ3kukIOVu3PR3S-osYNn_I8MTCoTsrN6L45lTg.jpg" group-title="Eng | USA Fox [K]",WY | Cheyenne-scottsbluff | FOX - KLWY HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1513699
 
-Eng | USA Kids [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Usa| Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1280px-Cartoon_Network_logo.svg.png" group-title="Eng | USA Kids [K]",Usa| Cartoon Network HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1447748
 #EXTINF:-1 xm-ott="{ID}" tvg-id="DisneyJunior.us" tvg-name="Usa| Disney JR HD" tvg-logo="http://miarea.vip:8080/images/c2e7619c4ebba77f9f05524042bccd5e.png" group-title="Eng | USA Kids [K]",Usa| Disney JR HD
@@ -7852,7 +7787,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1447758
 #EXTINF:-1 xm-ott="{ID}" tvg-id="NickJr.us" tvg-name="Usa| NICK JR HD" tvg-logo="http://miarea.vip:8080/images/dbe20313e007928ef4e9990347a2e424.png" group-title="Eng | USA Kids [K]",Usa| NICK JR HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1447760
 
-Eng | USA Nbc [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Knbc-dt1 (1080p) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Eng | USA Nbc [K]",Knbc-dt1 (1080p) HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1449821
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Kyou-dt2 (720p) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Eng | USA Nbc [K]",Kyou-dt2 (720p) HD
@@ -7888,7 +7822,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1449943
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Komu-dt1 (720p) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/New_KOMU-TV_logo_2023.png" group-title="Eng | USA Nbc [K]",Komu-dt1 (720p) HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1449944
 
-Eng | USA Sports [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="NESN HD" tvg-logo="" group-title="Eng | USA Sports [K]",NESN HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1784359
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="NESN HD" tvg-logo="" group-title="Eng | USA Sports [K]",NESN HD
@@ -7932,13 +7865,11 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1447902
 #EXTINF:-1 xm-ott="{ID}" tvg-id="TennisChannel.us" tvg-name="Us: Tennis Channel Hd*cb" tvg-logo="" group-title="Eng | USA Sports [K]",Us: Tennis Channel Hd*cb
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1447904
 
-Port | Brasil +Sbt [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SBT Novelas HD" tvg-logo="https://i.ibb.co/FH8vd2F/sbt.png" group-title="Port | Brasil +Sbt [K]",SBT Novelas HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540999
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SBT Saudade HD" tvg-logo="https://i.ibb.co/FH8vd2F/sbt.png" group-title="Port | Brasil +Sbt [K]",SBT Saudade HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541000
 
-Port | Brasil A Fazenda 2025 [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="A Fazenda 01 HD" tvg-logo="http://i.ibb.co/MVZfH87/afazenda.png" group-title="Port | Brasil A Fazenda 2025 [K]",A Fazenda 01 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540489
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="A Fazenda 02 HD" tvg-logo="http://i.ibb.co/MVZfH87/afazenda.png" group-title="Port | Brasil A Fazenda 2025 [K]",A Fazenda 02 HD
@@ -7954,7 +7885,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540494
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Esquenta HD" tvg-logo="http://i.ibb.co/MVZfH87/afazenda.png" group-title="Port | Brasil A Fazenda 2025 [K]",Esquenta HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540488
 
-Port | Brasil Abertos [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="AGRO Brasil HD" tvg-logo="https://i.postimg.cc/QMfzXd78/agromais.png" group-title="Port | Brasil Abertos [K]",AGRO Brasil HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540710
 #EXTINF:-1 xm-ott="{ID}" tvg-id="CanaldoBoi.br" tvg-name="Canal DO BOI HD" tvg-logo="https://i.postimg.cc/qBP5BYN3/Logo-Canal-do-Boi.png" group-title="Port | Brasil Abertos [K]",Canal DO BOI HD
@@ -7982,7 +7912,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540715
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TV Guarapari HD" tvg-logo="https://i.postimg.cc/2y3kDywL/guaraoari-1.png" group-title="Port | Brasil Abertos [K]",TV Guarapari HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540722
 
-Port | Brasil Band [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BAND SP UHD" tvg-logo="https://i.postimg.cc/9QjKbSVh/band.png" group-title="Port | Brasil Band [K]",BAND SP UHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1807897
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BAND Minas FHD" tvg-logo="https://i.postimg.cc/9QjKbSVh/band.png" group-title="Port | Brasil Band [K]",BAND Minas FHD
@@ -8018,7 +7947,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1807900
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BAND TV VALE DO Uruara HD" tvg-logo="https://i.postimg.cc/9QjKbSVh/band.png" group-title="Port | Brasil Band [K]",BAND TV VALE DO Uruara HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1807914
 
-Port | Brasil Bbb 2026 [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BBB 26 - Acompanhe a Casa 2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5MDdf/bbb.png" group-title="Port | Brasil Bbb 2026 [K]",BBB 26 - Acompanhe a Casa 2
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1926814
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BBB 26 - Acompanhe a Casa 1" tvg-logo="https://od.lk/s/NzdfNTg1NjM5MDdf/bbb.png" group-title="Port | Brasil Bbb 2026 [K]",BBB 26 - Acompanhe a Casa 1
@@ -8044,7 +7972,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1926824
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BBB 26 - Mosaico" tvg-logo="https://od.lk/s/NzdfNTg1NjM5MDdf/bbb.png" group-title="Port | Brasil Bbb 2026 [K]",BBB 26 - Mosaico
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1926825
 
-Port | Brasil Cazé TV [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CAZE TV 1 HD" tvg-logo="https://i.postimg.cc/VLy58gN0/caze.png" group-title="Port | Brasil Cazé TV [K]",CAZE TV 1 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541066
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CAZE TV 2 HD" tvg-logo="https://i.postimg.cc/VLy58gN0/caze.png" group-title="Port | Brasil Cazé TV [K]",CAZE TV 2 HD
@@ -8052,7 +7979,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541065
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CAZE TV 3 HD" tvg-logo="https://i.postimg.cc/VLy58gN0/caze.png" group-title="Port | Brasil Cazé TV [K]",CAZE TV 3 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541067
 
-Port | Brasil Cine Pipoca [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Runtime Ação HD" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/runtime_br_action_bg.jpg" group-title="Port | Brasil Cine Pipoca [K]",Runtime Ação HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771959
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Pluto TV Filmes Nacionais HD" tvg-logo="https://imgur.com/qPhjnv9.png" group-title="Port | Brasil Cine Pipoca [K]",Pluto TV Filmes Nacionais HD
@@ -8136,7 +8062,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771977
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Urban TV Travel HD" tvg-logo="https://i.postimg.cc/23RyygF2/logo-urbantravel.png" group-title="Port | Brasil Cine Pipoca [K]",Urban TV Travel HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771999
 
-Port | Brasil Cine Sky [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE SKY 01 HD" tvg-logo="https://i.postimg.cc/xjs5MJ8X/cinesky.png" group-title="Port | Brasil Cine Sky [K]",CINE SKY 01 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541003
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE SKY 02 HD" tvg-logo="https://i.postimg.cc/xjs5MJ8X/cinesky.png" group-title="Port | Brasil Cine Sky [K]",CINE SKY 02 HD
@@ -8148,7 +8073,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541005
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE SKY 05 HD" tvg-logo="https://i.postimg.cc/xjs5MJ8X/cinesky.png" group-title="Port | Brasil Cine Sky [K]",CINE SKY 05 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541006
 
-Port | Brasil Cineflix [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Catastrofe 01 HD" tvg-logo="https://i.ibb.co/CsHZQgPn/catas01.png" group-title="Port | Brasil Cineflix [K]",CINE Catastrofe 01 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782117
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Halloween HD" tvg-logo="https://i.ibb.co/CznzGg1/hallowen.png" group-title="Port | Brasil Cineflix [K]",Halloween HD
@@ -8378,7 +8302,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782148
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="X-men: Wolwerine HD" tvg-logo="https://i.ibb.co/RYV85SN/xmen-wolwerine.png" group-title="Port | Brasil Cineflix [K]",X-men: Wolwerine HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782230
 
-Port | Brasil Dazn/Sportv [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://i.postimg.cc/bvFwsyN5/dazn.png" group-title="Port | Brasil Dazn/Sportv [K]",DAZN 1 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541074
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="https://i.postimg.cc/bvFwsyN5/dazn.png" group-title="Port | Brasil Dazn/Sportv [K]",DAZN 2 HD
@@ -8404,7 +8327,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541078
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sport.tv 5 HD" tvg-logo="https://i.postimg.cc/fTWjDg5Y/SPORT-TV-PORTUGAL.png" group-title="Port | Brasil Dazn/Sportv [K]",Sport.tv 5 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541079
 
-Port | Brasil Desenhost 24h [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="24hr AS 3 Espians HD" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="Port | Brasil Desenhost 24h [K]",24hr AS 3 Espians HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541130
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="24hrs O Fantasminha Legal HD" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="Port | Brasil Desenhost 24h [K]",24hrs O Fantasminha Legal HD
@@ -8806,7 +8728,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541213
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="24hrs ZE Colmeia HD" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="Port | Brasil Desenhost 24h [K]",24hrs ZE Colmeia HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541138
 
-Port | Brasil Disney+ [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="DisneyXD.br" tvg-name="Disney+ 1 HD" tvg-logo="https://i.postimg.cc/Y9jBBkJ1/disney.png" group-title="Port | Brasil Disney+ [K]",Disney+ 1 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541086
 #EXTINF:-1 xm-ott="{ID}" tvg-id="DisneyXD.br" tvg-name="Disney+ 2 HD" tvg-logo="https://i.postimg.cc/Y9jBBkJ1/disney.png" group-title="Port | Brasil Disney+ [K]",Disney+ 2 HD
@@ -8820,7 +8741,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541090
 #EXTINF:-1 xm-ott="{ID}" tvg-id="DisneyXD.br" tvg-name="Disney+ 6 HD" tvg-logo="https://i.postimg.cc/Y9jBBkJ1/disney.png" group-title="Port | Brasil Disney+ [K]",Disney+ 6 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541091
 
-Port | Brasil Documentarios [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="AnimalPlanet.br" tvg-name="Animal Planet FHD" tvg-logo="https://i.postimg.cc/FHsghgVS/1280px-Animal-Planet-logo.png" group-title="Port | Brasil Documentarios [K]",Animal Planet FHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540944
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="H2 FHD" tvg-logo="https://i.postimg.cc/6pmRts3s/history2.png" group-title="Port | Brasil Documentarios [K]",H2 FHD
@@ -8892,7 +8812,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540928
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TLC UHD" tvg-logo="https://i.postimg.cc/63dGryhw/TLC-Logo-2016.png" group-title="Port | Brasil Documentarios [K]",TLC UHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540909
 
-Port | Brasil Espn [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="https://i.postimg.cc/ZKfvxk69/espn2.png" group-title="Port | Brasil Espn [K]",ESPN 2 FHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540872
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ESPN 5 HD" tvg-logo="https://i.postimg.cc/t4ZLQhff/espn5.png" group-title="Port | Brasil Espn [K]",ESPN 5 HD
@@ -8926,7 +8845,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540874
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ESPN UHD" tvg-logo="https://i.postimg.cc/L431hgX3/espn.png" group-title="Port | Brasil Espn [K]",ESPN UHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540886
 
-Port | Brasil Esportes [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BAND Sports FHD" tvg-logo="https://i.postimg.cc/K8kHHJ1L/bandsports-logo.png" group-title="Port | Brasil Esportes [K]",BAND Sports FHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540899
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="GE TV HD" tvg-logo="https://s2-ge.glbimg.com/Cx1yM8KLCWcPzerO2F4TdOoS7Qc=/48x46/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2025/b/q/hIpxWPQdKQZeiU5bTShA/getv-branco.png" group-title="Port | Brasil Esportes [K]",GE TV HD
@@ -8962,7 +8880,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540897
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Xsports HD" tvg-logo="https://img.kalunga.com.br/xsports/logo-xsports-branco-3.png" group-title="Port | Brasil Esportes [K]",Xsports HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540906
 
-Port | Brasil Filmes e Séries [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="A&e FHD" tvg-logo="https://i.postimg.cc/fyVQ40gQ/AE.png" group-title="Port | Brasil Filmes e Séries [K]",A&e FHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540777
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TNT Novelas UHD" tvg-logo="https://i.postimg.cc/1zWyLP56/tntnovelas.png" group-title="Port | Brasil Filmes e Séries [K]",TNT Novelas UHD
@@ -9070,13 +8987,11 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540755
 #EXTINF:-1 xm-ott="{ID}" tvg-id="WarnerChannel.br" tvg-name="Warner Channel UHD" tvg-logo="https://i.postimg.cc/GtDr8yPJ/warnerchannel.png" group-title="Port | Brasil Filmes e Séries [K]",Warner Channel UHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540730
 
-Port | Brasil Goat [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="GOAT 1 HD" tvg-logo="https://i.postimg.cc/0j7kjgNM/goat.png" group-title="Port | Brasil Goat [K]",GOAT 1 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541097
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="GOAT 2 HD" tvg-logo="https://i.postimg.cc/0j7kjgNM/goat.png" group-title="Port | Brasil Goat [K]",GOAT 2 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541096
 
-Port | Brasil Hbo Max [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MAX 1 HD" tvg-logo="https://i.postimg.cc/0232N9pC/HBO-Max-Logo.png" group-title="Port | Brasil Hbo Max [K] ",MAX 1 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541051
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MAX 2 HD" tvg-logo="https://i.postimg.cc/0232N9pC/HBO-Max-Logo.png" group-title="Port | Brasil Hbo Max [K] ",MAX 2 HD
@@ -9086,7 +9001,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541049
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MAX 4 HD" tvg-logo="https://i.postimg.cc/0232N9pC/HBO-Max-Logo.png" group-title="Port | Brasil Hbo Max [K] ",MAX 4 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541048
 
-Port | Brasil Hbo [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="HBO2.br" tvg-name="HBO 2 FHD" tvg-logo="https://i.postimg.cc/FzdVX9yB/hbo2.png" group-title="Port | Brasil Hbo [K]",HBO 2 FHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540821
 #EXTINF:-1 xm-ott="{ID}" tvg-id="HBOPop.br" tvg-name="HBO POP UHD" tvg-logo="https://i.postimg.cc/QNwR9CyV/hbopop.png" group-title="Port | Brasil Hbo [K]",HBO POP UHD
@@ -9136,7 +9050,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540819
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hbo+ UHD" tvg-logo="https://i.postimg.cc/C16Xzttv/image.png" group-title="Port | Brasil Hbo [K]",Hbo+ UHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540798
 
-Port | Brasil Infantil [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Adult SWIM Brasil HD" tvg-logo="https://i.postimg.cc/2jnQJ32w/ad8698aab8-adult-swim-logo-adult-swim-logo-impact-font-by-neopets2012-on.png" group-title="Port | Brasil Infantil [K] ",Adult SWIM Brasil HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540678
 #EXTINF:-1 xm-ott="{ID}" tvg-id="Nick.br" tvg-name="NICK FHD" tvg-logo="https://i.postimg.cc/YSN85VM4/nickelodeonhd.png" group-title="Port | Brasil Infantil [K] ",NICK FHD
@@ -9200,7 +9113,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540707
 #EXTINF:-1 xm-ott="{ID}" tvg-id="ZooMoo.br" tvg-name="Zoomoo UHD" tvg-logo="https://i.postimg.cc/Bbbg1nDD/zoomoo.png" group-title="Port | Brasil Infantil [K] ",Zoomoo UHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540679
 
-Port | Brasil Jornalismo [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="BandNews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://i.postimg.cc/sfG30kFQ/bandnews.png" group-title="Port | Brasil Jornalismo [K]",BAND NEWS FHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540840
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Globo NEWS HD" tvg-logo="https://i.postimg.cc/HkzmyHMK/globonews.png" group-title="Port | Brasil Jornalismo [K]",Globo NEWS HD
@@ -9238,7 +9150,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540838
 #EXTINF:-1 xm-ott="{ID}" tvg-id="RecordNews.br" tvg-name="Record NEWS UHD" tvg-logo="https://i.postimg.cc/1zYZvHJr/recnews.png" group-title="Port | Brasil Jornalismo [K]",Record NEWS UHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540823
 
-Port | Brasil Musica [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MKK TV HD" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO_MKKWEB_TV_2_TRASPARENTE_reduz_rGRzG0T.png" group-title="Port | Brasil Musica [K]",MKK TV HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541100
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PLAY TV HD" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logotipo_100x100_no_formato_SLfognJ.png" group-title="Port | Brasil Musica [K]",PLAY TV HD
@@ -9252,7 +9163,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541102
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="UMA TV HD" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO_100X100_DNf7am5.png" group-title="Port | Brasil Musica [K]",UMA TV HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541101
 
-Port | Brasil Nosso Futebol [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Nosso Futebol 3 HD" tvg-logo="https://i.postimg.cc/mDG64KK6/nosso_futebol.png" group-title="Port | Brasil Nosso Futebol [K]",Nosso Futebol 3 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541082
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Nosso Futebol 1 HD" tvg-logo="https://i.postimg.cc/mDG64KK6/nosso_futebol.png" group-title="Port | Brasil Nosso Futebol [K]",Nosso Futebol 1 HD
@@ -9260,11 +9170,9 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541083
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Nosso Futebol 2 HD" tvg-logo="https://i.postimg.cc/mDG64KK6/nosso_futebol.png" group-title="Port | Brasil Nosso Futebol [K]",Nosso Futebol 2 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541084
 
-Port | Brasil Nsports [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="beINSPORTS2.au" tvg-name="Nsports 2 HD" tvg-logo="https://i.imgur.com/UEpuHjs.png" group-title="Port | Brasil Nsports [K]",Nsports 2 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541094
 
-Port | Brasil Paramount+ [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Paramount+ 1 HD" tvg-logo="https://i.postimg.cc/B6MJf3SH/paramount.png" group-title="Port | Brasil Paramount+ [K]",Paramount+ 1 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541063
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Paramount+ 2 HD" tvg-logo="https://i.postimg.cc/B6MJf3SH/paramount.png" group-title="Port | Brasil Paramount+ [K]",Paramount+ 2 HD
@@ -9274,7 +9182,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541061
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Paramount+ 4 HD" tvg-logo="https://i.postimg.cc/B6MJf3SH/paramount.png" group-title="Port | Brasil Paramount+ [K]",Paramount+ 4 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541060
 
-Port | Brasil Premier [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="Premiere2.br" tvg-name="Premiere 2 FHD" tvg-logo="https://i.postimg.cc/cCfy4NZF/PREMIERE_2.png" group-title="Port | Brasil Premier [K]",Premiere 2 FHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540870
 #EXTINF:-1 xm-ott="{ID}" tvg-id="Premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="https://i.postimg.cc/xd1vCJFP/PREMIERE-5.png" group-title="Port | Brasil Premier [K]",Premiere 5 HD
@@ -9314,7 +9221,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540868
 #EXTINF:-1 xm-ott="{ID}" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes UHD" tvg-logo="https://i.postimg.cc/k5G0RSq6/PREMIERE_CLUBES.png" group-title="Port | Brasil Premier [K]",Premiere Clubes UHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540852
 
-Port | Brasil Prime Video [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Prime Video 1 HD" tvg-logo="https://i.postimg.cc/qqXJmmmy/PRIME-VIDEO.png" group-title="Port | Brasil Prime Video [K]",Prime Video 1 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541058
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Prime Video 2 HD" tvg-logo="https://i.postimg.cc/qqXJmmmy/PRIME-VIDEO.png" group-title="Port | Brasil Prime Video [K]",Prime Video 2 HD
@@ -9322,7 +9228,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541057
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Prime Video 3 HD" tvg-logo="https://i.postimg.cc/qqXJmmmy/PRIME-VIDEO.png" group-title="Port | Brasil Prime Video [K]",Prime Video 3 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541056
 
-Port | Brasil Record [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Record BelÉm HD" tvg-logo="https://i.postimg.cc/y8BpcZX6/Novo-rederecord.png" group-title="Port | Brasil Record [K]",Record BelÉm HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540652
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Recordtv JoÃo Pessoa FHD" tvg-logo="https://i.postimg.cc/y8BpcZX6/Novo-rederecord.png" group-title="Port | Brasil Record [K]",Recordtv JoÃo Pessoa FHD
@@ -9378,7 +9283,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540653
 #EXTINF:-1 xm-ott="{ID}" tvg-id="RecordTVSP.br" tvg-name="Recordtv SP HD" tvg-logo="https://i.postimg.cc/y8BpcZX6/Novo-rederecord.png" group-title="Port | Brasil Record [K]",Recordtv SP HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540631
 
-Port | Brasil Religiosos [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CanÇÃo NOVA HD" tvg-logo="https://i.postimg.cc/hvL6Rbbw/cancaonova.png" group-title="Port | Brasil Religiosos [K]",CanÇÃo NOVA HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540997
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REDE Familia HD" tvg-logo="https://i.postimg.cc/qRtM6tZC/rede-familia.png" group-title="Port | Brasil Religiosos [K]",REDE Familia HD
@@ -9402,7 +9306,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540988
 #EXTINF:-1 xm-ott="{ID}" tvg-id="TVNovoTempo.br" tvg-name="TV NOVO Tempo HD" tvg-logo="https://i.postimg.cc/s2LtY2gn/novotempo.png" group-title="Port | Brasil Religiosos [K]",TV NOVO Tempo HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540987
 
-Port | Brasil Sbt [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SBT TV Alterosa HD" tvg-logo="https://i.postimg.cc/1tLJtn3Q/sbt.png" group-title="Port | Brasil Sbt [K]",SBT TV Alterosa HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540613
 #EXTINF:-1 xm-ott="{ID}" tvg-id="SBTRJ.br" tvg-name="SBT RJ HD" tvg-logo="https://i.postimg.cc/1tLJtn3Q/sbt.png" group-title="Port | Brasil Sbt [K]",SBT RJ HD
@@ -9450,7 +9353,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540622
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TV Jornal PE HD" tvg-logo="https://i.postimg.cc/1tLJtn3Q/sbt.png" group-title="Port | Brasil Sbt [K]",TV Jornal PE HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540607
 
-Port | Brasil Seriados 24h [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="24hrs _11 HD" tvg-logo="https://i.postimg.cc/nV23b6W3/seriado.png" group-title="Port | Brasil Seriados 24h [K]",24hrs _11 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541318
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="24hrs Power Stone Anime HD" tvg-logo="https://i.postimg.cc/nV23b6W3/seriado.png" group-title="Port | Brasil Seriados 24h [K]",24hrs Power Stone Anime HD
@@ -9562,7 +9464,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541347
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="24hrs OS Simpsons HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTxabYPP0seeTX0oc-yZSkPnVZEbdhWb9tzI3L6X6SnUt8Dw5i7TVAnBvA&s=10" group-title="Port | Brasil Seriados 24h [K]",24hrs OS Simpsons HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541294
 
-Port | Brasil Sportv [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="SporTV2.br" tvg-name="Sportv 2 FHD" tvg-logo="https://i.postimg.cc/RZ6h1WM8/sportv2.png" group-title="Port | Brasil Sportv [K]",Sportv 2 FHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540842
 #EXTINF:-1 xm-ott="{ID}" tvg-id="SporTV2.br" tvg-name="Sportv 2 HD" tvg-logo="https://i.postimg.cc/RZ6h1WM8/sportv2.png" group-title="Port | Brasil Sportv [K]",Sportv 2 HD
@@ -9582,7 +9483,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540849
 #EXTINF:-1 xm-ott="{ID}" tvg-id="SporTV.br" tvg-name="Sportv UHD" tvg-logo="https://i.postimg.cc/zXpKzxfv/2749bc7b6121429266df7eea2666cea9.png" group-title="Port | Brasil Sportv [K]",Sportv UHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540850
 
-Port | Brasil Telecine [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="TelecineAction.br" tvg-name="Telecine Action FHD" tvg-logo="https://i.postimg.cc/44SWL060/telecineaction.png" group-title="Port | Brasil Telecine [K]",Telecine Action FHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540780
 #EXTINF:-1 xm-ott="{ID}" tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="https://i.postimg.cc/x1rtYbFy/telecinepipoca.png" group-title="Port | Brasil Telecine [K]",Telecine Pipoca HD
@@ -9620,13 +9520,11 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540779
 #EXTINF:-1 xm-ott="{ID}" tvg-id="TelecineTouch.br" tvg-name="Telecine Touch UHD" tvg-logo="https://i.postimg.cc/6Qc0db6Y/telecinetouch.png" group-title="Port | Brasil Telecine [K]",Telecine Touch UHD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1540788
 
-Port | Brasil Ufc [K]
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="UFC Fight PASS 1 HD" tvg-logo="https://i.postimg.cc/43GGKynp/UFC-FIGHT-PASS.png" group-title="Port | Brasil Ufc [K]",UFC Fight PASS 1 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541054
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="UFC Fight PASS 2 HD" tvg-logo="https://i.postimg.cc/43GGKynp/UFC-FIGHT-PASS.png" group-title="Port | Brasil Ufc [K]",UFC Fight PASS 2 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1541053
 
-PE | 3D
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La Gran Aventura LEGO 2 (2019)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/c97a511a9e807ba4d41cbcf761525cdd.jpg" group-title="PE | 3D",La Gran Aventura LEGO 2 (2019)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1685543.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Máquinas mortales (2018)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/756065b1e61ec81cabdf50f603ce9799.jpg" group-title="PE | 3D",Máquinas mortales (2018)
@@ -9836,7 +9734,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1685440.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Jurassic World (2015)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/48487863221a51bd16faec09d575d270.jpg" group-title="PE | 3D",Jurassic World (2015)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1685439.mkv
 
-PE | 480P (3MBPS)
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El gigante de hierro (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voPAzJFyopCnLEwaBWpoX8uDvGI.jpg" group-title="PE | 480P (3MBPS)",El gigante de hierro (1999)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1687139.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Battle Angel: La última guerrera (2019)" tvg-logo="" group-title="PE | 480P (3MBPS)",Battle Angel: La última guerrera (2019)
@@ -11994,7 +11891,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1686063.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Gamer (2009)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/dcb254d27fd9f4f8c8e0e07b1e7dd087.jpg" group-title="PE | 480P (3MBPS)",Gamer (2009)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1686062.mp4
 
-PE | ACCIÓN (M)
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El Marine 6 (Persecución extrema 6) (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WsY1Mfgb06cMKtpRRKfZTa3cSe.jpg" group-title="PE | ACCIÓN (M)",El Marine 6 (Persecución extrema 6) (2018)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1922805.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El Marine 5 (Persecución extrema 5) (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOJLOfOBZAXypi5ZOnHKl99LPtb.jpg" group-title="PE | ACCIÓN (M)",El Marine 5 (Persecución extrema 5) (2017)
@@ -18262,7 +18158,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1722819.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Viuda Negra (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjnciyF6Rj2fwZ7mtrj88RB0z8u.jpg" group-title="PE | ACCIÓN (M)",Viuda Negra (2021)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1722818.mkv
 
-PE | ADAM SANDLER
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La Casa de las Conejitas (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZL8cARZk08IR7XM4zawfSNjeDg.jpg" group-title="PE | ADAM SANDLER",La Casa de las Conejitas (2008)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1861746.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hai Chú Cháu (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aKUakpQwFql3ewQNmB8FOyCS90.jpg" group-title="PE | ADAM SANDLER",Hai Chú Cháu (2012)
@@ -18346,7 +18241,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1861707.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Luna de Miel en Familia (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKxwN7cNbRlgBR1Rmny58Jd5wut.jpg" group-title="PE | ADAM SANDLER",Luna de Miel en Familia (2014)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1861706.mkv
 
-PE | ANIMADOS (M)
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Cars 3 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tp9W3QAbQcpanBtBceZtHD10UT.jpg" group-title="PE | ANIMADOS (M)",Cars 3 (2017)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1796347.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La Liga de la Justicia: El trono de Atlantis (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKHWoabqFg7QVS4Xqu5Q84PmuAo.jpg" group-title="PE | ANIMADOS (M)",La Liga de la Justicia: El trono de Atlantis (2015)
@@ -20492,7 +20386,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1238469.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Los Simpson: la buena, el malo y Loki (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u10ZfFwbCMB4UrFy7OlHq08fBRr.jpg" group-title="PE | ANIMADOS (M)",Los Simpson: la buena, el malo y Loki (2021)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/145467.mp4
 
-PE | ANIME (M)
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Tu nombre (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qt4boe1IWfoffBF2P0QKOCSYUr.jpg" group-title="PE | ANIME (M)",Tu nombre (2016)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1799595.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Asura (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tv50wHVIhwwK8rpDkyJPLnw7WWF.jpg" group-title="PE | ANIME (M)",Asura (2012)
@@ -20956,7 +20849,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1447610.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Kaiju No. 8: Misión de reconocimiento (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okYOor2hdF7EFjxs2TxSzwGeKEQ.jpg" group-title="PE | ANIME (M)",Kaiju No. 8: Misión de reconocimiento (2025)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1445742.mp4
 
-PE | APPLE TV
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Contracted (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Be1XlwkmJ9CLBND35ww2Pg3Qs.jpg" group-title="PE | APPLE TV",Contracted (2013)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1876085.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Primal: Tales of Savagery (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NBBkdxH0TjQEBSN2AzeE1sgsF9.jpg" group-title="PE | APPLE TV",Primal: Tales of Savagery (2019)
@@ -22074,7 +21966,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1538591.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El ataque de los dinosaurios (2022)" tvg-logo="" group-title="PE | APPLE TV",El ataque de los dinosaurios (2022)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1538590.mkv
 
-PE | ARTES MARCIALES
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Ninja Americano 5 (1993)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/949c659fd7b565a63808405b2d6e4bc6.jpg" group-title="PE | ARTES MARCIALES",Ninja Americano 5 (1993)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1685669.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La casa de las dagas voladoras (2004)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/f2e41b82d578d9f3b48c7e388075e6e2.jpg" group-title="PE | ARTES MARCIALES",La casa de las dagas voladoras (2004)
@@ -22322,7 +22213,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1685547.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Jackie Chan El Especialista (1999)" tvg-logo="" group-title="PE | ARTES MARCIALES",Jackie Chan El Especialista (1999)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1685546.mkv
 
-PE | AVENTURA (M)
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La montaña entre nosotros (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSKDUzyk3xIuQ1HJBQpPWyTt97t.jpg" group-title="PE | AVENTURA (M)",La montaña entre nosotros (2017)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1919087.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Lost City of X (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDW693L7bzKLdD91mscYxxX9lFD.jpg" group-title="PE | AVENTURA (M)",The Lost City of X (2022)
@@ -29956,7 +29846,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1914596.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hero Dog: The Journey Home (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybWtSFLVakBIVeAviZ6SsQKIuSv.jpg" group-title="PE | AVENTURA (M)",Hero Dog: The Journey Home (2021)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1784264.mkv
 
-PE | BASADA EN HECHOS REALES
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Nada más que la verdad (2008)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/6e15f78eadc82b29a6c3385f4a625624.jpg" group-title="PE | BASADA EN HECHOS REALES",Nada más que la verdad (2008)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1794700.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Mentes maestras (2016)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/d6950fd9b4f5688173c5f2156243e528.jpg" group-title="PE | BASADA EN HECHOS REALES",Mentes maestras (2016)
@@ -30166,7 +30055,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1794597.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Silencio (2018)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/7a01d22f71080b1de5aa175fbb57d2b3.jpg" group-title="PE | BASADA EN HECHOS REALES",Silencio (2018)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1794596.mp4
 
-PE | BRAD PITT
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The.lost.city.2022.1080p-dual-Lat" tvg-logo="" group-title="PE | BRAD PITT",The.lost.city.2022.1080p-dual-Lat
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1802171.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sr. y Sra. Smith (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNi7Axc8U4cI9BgryeuF5tpi0I1.jpg" group-title="PE | BRAD PITT",Sr. y Sra. Smith (2005)
@@ -30190,7 +30078,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1800109.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Babylon (2022)" tvg-logo="http://dns.vip-kings-cr-tv.vip:80/images/145555578357a835526eaeafa675a582.jpg" group-title="PE | BRAD PITT",Babylon (2022)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1800108.mkv
 
-PE | BÉLICAS (Z)
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Song for a Raggy Boy (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rB1K3v5780GVH5KUGFadWi4w8Aw.jpg" group-title="PE | BÉLICAS (Z)",Song for a Raggy Boy (2003)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1469457.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Caballo de Guerra (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdkphnrXmqOvh0mEwYN9xrWGI3w.jpg" group-title="PE | BÉLICAS (Z)",Caballo de Guerra (2011)
@@ -30450,7 +30337,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/823596.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Black Hawk derribado (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5chWdaHyaHWd5KaVxK94lbTDCdC.jpg" group-title="PE | BÉLICAS (Z)",Black Hawk derribado (2001)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/759089.mkv
 
-PE | CHILENAS
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Violeta se fue a los cielos (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6R2q7tIqEF7W4p5YIK3t7CQrOa.jpg" group-title="PE | CHILENAS",Violeta se fue a los cielos (2011)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1863132.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Caluga o Menta (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7YtI2UgiWFIJU7ftw11Csapd26.jpg" group-title="PE | CHILENAS",Caluga o Menta (1990)
@@ -30920,7 +30806,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1862840.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La rubia de Kennedy (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmY6FRgLNzEZ6UMluoXiTepTebf.jpg" group-title="PE | CHILENAS",La rubia de Kennedy (1995)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1862838.mp4
 
-PE | CIENCIA FICCIÓN (M)
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Zero Contact (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7HHBpntE8ygag10eiglEbkFDi.jpg" group-title="PE | CIENCIA FICCIÓN (M)",Zero Contact (2022)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1722814.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Star Trek: La próxima generación (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPq2exR55lDKbgNOK1EZYJe1G1S.jpg" group-title="PE | CIENCIA FICCIÓN (M)",Star Trek: La próxima generación (1994)
@@ -33000,7 +32885,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1721770.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="" tvg-logo="" group-title="PE | CIENCIA FICCIÓN (M)",
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1721769.
 
-PE | CINE (LATINO) -1
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Momento critico Executive Decision" tvg-logo="" group-title="PE | CINE (LATINO) -1",Momento critico Executive Decision
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1742169.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Destino final 2 (2003)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/af1e4864e9b231caeb1a08ad4145c685.jpg" group-title="PE | CINE (LATINO) -1",Destino final 2 (2003)
@@ -41548,7 +41432,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1737881.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El Compromiso (2011)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/ffff253e0440336cbbbc035c17ccb3b3.jpg" group-title="PE | CINE (LATINO) -1",El Compromiso (2011)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1737880.mp4
 
-PE | CINE (LATINO) •2
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Bliss (2019)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/b44dc0722528419be1ca16a5758bd634.jpg" group-title="PE | CINE (LATINO) •2",Bliss (2019)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1737878.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El héroe y el terror (1988)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/35737a6b34a7866e784b2b0a8887a551.jpg" group-title="PE | CINE (LATINO) •2",El héroe y el terror (1988)
@@ -46622,7 +46505,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1735336.avi
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Dulce pájaro de juventud (1962)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/116ffca568b490bd07cbf4886623f113.jpg" group-title="PE | CINE (LATINO) •2",Dulce pájaro de juventud (1962)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1735335.mkv
 
-PE | CINE SUBTITULADO
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Calling Witch (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8o2NzIH4ze28NAVs1eRkejAJIk.jpg" group-title="PE | CINE SUBTITULADO",The Calling Witch (2026)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1794163.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Killer Whale (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8lIphxDZ0CIvyBCvYS0FwjyHco.jpg" group-title="PE | CINE SUBTITULADO",Killer Whale (2026)
@@ -46636,7 +46518,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1794159.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="We Bury the Dead (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZqo0yPARmyF8TACVNyaOACkYWG.jpg" group-title="PE | CINE SUBTITULADO",We Bury the Dead (2026)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1794158.mkv
 
-PE | CLARO VIDEO
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="What Comes Around (2023)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/7907c0a91665a0e567f357dd4f32fba8.jpg" group-title="PE | CLARO VIDEO",What Comes Around (2023)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1650112.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RoboCop (2014)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/b8a264ad008f2a7918c5d36162461f65.jpg" group-title="PE | CLARO VIDEO",RoboCop (2014)
@@ -46812,7 +46693,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1650027.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Despertares (1990)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/5d22508b4f9bd52de27d33f51cc6978d.jpg" group-title="PE | CLARO VIDEO",Despertares (1990)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1650026.mkv
 
-PE | COLECCIÓN ADAM SANDLER
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" Son como Niños 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w400/6TRhV0E6wDQjMEtvYru0Kel6juW.jpg" group-title="PE | COLECCIÓN ADAM SANDLER", Son como Niños 2 (2013)
 https://zona593movie.com:8443/movie/kingsRestream/vdt9U7kFXE/843707.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Adam Sandler: 100% Fresh (2018)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/ddb647f0e6479dbdb72c7951d9e9fa1a.jpg" group-title="PE | COLECCIÓN ADAM SANDLER",Adam Sandler: 100% Fresh (2018)
@@ -46930,7 +46810,6 @@ https://zona593movie.com:8443/movie/kingsRestream/vdt9U7kFXE/843701.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El chico ideal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzDJ7QqogUYa5pVAMHdq6HHFLjQ.jpg" group-title="PE | COLECCIÓN ADAM SANDLER",El chico ideal
 https://zona593movie.com:8443/movie/kingsRestream/vdt9U7kFXE/843703.mkv
 
-PE | COLECCIÓN BRUCE LEE
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Bruce Lee en Nueva Guinea (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84F4SdC0WwC8qeoEAbheYoYC3Vr.jpg" group-title="PE | COLECCIÓN BRUCE LEE",Bruce Lee en Nueva Guinea (1978)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377617.avi
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Bruce Lee lucha desde la tumba (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30xTQ2tkiJdpOjQn0SuiroWNiZO.jpg" group-title="PE | COLECCIÓN BRUCE LEE",Bruce Lee lucha desde la tumba (1976)
@@ -46962,7 +46841,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377601.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Bruce Lee Contra el Dedo de Hierro (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ALu05Tf8bgq6NZADsDOtPKZ6id.jpg" group-title="PE | COLECCIÓN BRUCE LEE",Bruce Lee Contra el Dedo de Hierro (1979)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377599.mp4
 
-PE | COLECCIÓN CANTINFLAS
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Un Quijote sin mancha (1969)" tvg-logo="http://supremeplay.org:80/images/a7e19d71e9d5ee9fc08d5ce7a78aaa4a.jpg" group-title="PE | COLECCIÓN CANTINFLAS",Un Quijote sin mancha (1969)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1494161.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Abajo el telón (1955)" tvg-logo="http://supremeplay.org:80/images/83a28ce218c2aeb833857025994ad2ef.jpg" group-title="PE | COLECCIÓN CANTINFLAS",Abajo el telón (1955)
@@ -47050,7 +46928,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377705.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Entrega Inmediata (1963)" tvg-logo="http://supremeplay.org:80/images/4fd049442052b7cb131db179d976dc20.jpg" group-title="PE | COLECCIÓN CANTINFLAS",Entrega Inmediata (1963)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377704.mkv
 
-PE | COLECCIÓN CHABELO
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Viaje a la luna (1958)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QgHaKB4feQA4TZT7jSeFEamjus.jpg" group-title="PE | COLECCIÓN CHABELO",Viaje a la luna (1958)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377753.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Chabelo y Pepito - La Lampara Maravillosa (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rI8L3cAH6VpeL4vcR6gEWi5pFTm.jpg" group-title="PE | COLECCIÓN CHABELO",Chabelo y Pepito - La Lampara Maravillosa (1972)
@@ -47068,7 +46945,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377743.avi
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Autopsia de un fantasma (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pd8NVSw7vCeCwhH999NMmQHNjH7.jpg" group-title="PE | COLECCIÓN CHABELO",Autopsia de un fantasma (1968)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377742.mp4
 
-PE | COLECCIÓN CHARLES BRONSON
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Érase una vez en el Oeste (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upiek8u4rHTrOJW9B0woXe4A4h7.jpg" group-title="PE | COLECCIÓN CHARLES BRONSON",Érase una vez en el Oeste (1968)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377661.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Un tren del infierno (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Jt8JECxJUWgfJQmgR3tFDyMvHz.jpg" group-title="PE | COLECCIÓN CHARLES BRONSON",Un tren del infierno (1975)
@@ -47120,7 +46996,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377626.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Asesino a precio fijo (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJxQToarnCa4AM7lQfTSanMOUYV.jpg" group-title="PE | COLECCIÓN CHARLES BRONSON",Asesino a precio fijo (1972)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377625.mkv
 
-PE | COLECCIÓN EL SANTO
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Santo en el hotel de la muerte (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2M5OAF5T2lIXSQso2v3LtoPEZD.jpg" group-title="PE | COLECCIÓN EL SANTO",Santo en el hotel de la muerte (1963)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377677.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Santo contra los zombies (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icll8dHL44zP7LXR2BeATtnZ4LW.jpg" group-title="PE | COLECCIÓN EL SANTO",Santo contra los zombies (1962)
@@ -47138,7 +47013,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377667.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El hacha diabólica (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SdTXJLKWbjYm1liDSMHNdahf0e.jpg" group-title="PE | COLECCIÓN EL SANTO",El hacha diabólica (1965)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377666.mp4
 
-PE | COLECCIÓN JET LI
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Jet Li: Rey de Asesinos (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHyIp0ZdY7RB4FHuaP9GClxKmnN.jpg" group-title="PE | COLECCIÓN JET LI",Jet Li: Rey de Asesinos (1998)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377765.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Danny: La Bestia (Unleashed) (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68wWd5i1E96rHJFnaeCK6iqUuF7.jpg" group-title="PE | COLECCIÓN JET LI",Danny: La Bestia (Unleashed) (2005)
@@ -47150,7 +47024,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377757.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Asesino solitario (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gg2XIPNeOu6MWw5FBnhQugZj5KU.jpg" group-title="PE | COLECCIÓN JET LI",Asesino solitario (2007)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377756.mkv
 
-PE | COLECCIÓN PEDRO INFANTE
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="¿Que te ha dado esa Mujer? (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KGCjCDH6lOLArQeHJuhcxi6c9x.jpg" group-title="PE | COLECCIÓN PEDRO INFANTE",¿Que te ha dado esa Mujer? (1951)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377739.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Vuelven los García (1947)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46PjDV5lhgtu10MIKH2XIzH6dv2.jpg" group-title="PE | COLECCIÓN PEDRO INFANTE",Vuelven los García (1947)
@@ -47174,7 +47047,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377723.avi
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Ama a tu prójimo (1958)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zT21yV8aJxrySWSr19mj3Yzu03.jpg" group-title="PE | COLECCIÓN PEDRO INFANTE",Ama a tu prójimo (1958)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377719.avi
 
-PE | COLECCIÓN VICENTE FERNÁNDEZ
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Una pura y dos con sal (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upysK3rHuILPRdHPMYD9LX8g1kT.jpg" group-title="PE | COLECCIÓN VICENTE FERNÁNDEZ",Una pura y dos con sal (1983)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377594.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Tu camino y el mio (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLhwW1ifKV34ymTqVy1SGxP4sIw.jpg" group-title="PE | COLECCIÓN VICENTE FERNÁNDEZ",Tu camino y el mio (1973)
@@ -47202,7 +47074,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377565.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Como México no hay dos (1945)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LxTOaoSbi2lrA5AwbFBcKEagUg.jpg" group-title="PE | COLECCIÓN VICENTE FERNÁNDEZ",Como México no hay dos (1945)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1377564.mp4
 
-PE | COMEDIA (M)
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Lo que una chica quiere (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSwg5LnbVoAtalbKkYFfx2Wo6fQ.jpg" group-title="PE | COMEDIA (M)",Lo que una chica quiere (2003)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1870364.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La cena (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyWqPumuqXk32OICtKV58gFfIoq.jpg" group-title="PE | COMEDIA (M)",La cena (2025)
@@ -55024,7 +54895,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1395174.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hada por Accidente (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSYzDNAdj9X2CstvuU9cj9rv4bE.jpg" group-title="PE | COMEDIA (M)",Hada por Accidente (2010)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1383653.mkv
 
-PE | CONCIERTOS (Z)
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Festival de Viña del Mar 2025: Morat (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scZinW7dXN6roBJ2AqOGLopj7qj.jpg" group-title="PE | CONCIERTOS (Z)",Festival de Viña del Mar 2025: Morat (2025)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1886785.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Festival de Viña del Mar 2025: Morat (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scZinW7dXN6roBJ2AqOGLopj7qj.jpg" group-title="PE | CONCIERTOS (Z)",Festival de Viña del Mar 2025: Morat (2025)
@@ -55296,7 +55166,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1886651.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Miley Cyrus: Something Beautiful (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eMnZjgvSGafnbjTikiA3iIqT3Y.jpg" group-title="PE | CONCIERTOS (Z)",Miley Cyrus: Something Beautiful (2025)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1886650.mkv
 
-PE | CONTENIDO TICO
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Maikol Yordan 2: La Cura Lejana (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2e1uTXEUZuo3t3EnNcxr8QwYq5v.jpg" group-title="PE | CONTENIDO TICO",Maikol Yordan 2: La Cura Lejana (2018)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1812055.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hernan Jimenez: ¡Así quién no! (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTGVYn4o1L9ceclTBFa6wa81ye4.jpg" group-title="PE | CONTENIDO TICO",Hernan Jimenez: ¡Así quién no! (2015)
@@ -55326,7 +55195,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1384647.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Gato X Liebre" tvg-logo="https://i.postimg.cc/7P1L69TS/Gato-x-Liebre-1043041733.jpg" group-title="PE | CONTENIDO TICO",Gato X Liebre
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1384644.mp4
 
-PE | CRIMEN (M)
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La belleza y el enigma (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LqRCLqvQ1d0qa7F9ofbq3dosJs.jpg" group-title="PE | CRIMEN (M)",La belleza y el enigma (2021)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1734709.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Creep (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6tmVgGGy9eE60UZz3sxvPlOiEq.jpg" group-title="PE | CRIMEN (M)",Creep (2004)
@@ -58666,7 +58534,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1466071.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Culpa tuya (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg" group-title="PE | CRIMEN (M)",Culpa tuya (2024)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1237233.mkv
 
-PE | DISNEY
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Piratas del Caribe: La venganza de Salazar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/net3hZOe33XbieLzVkfJsQEdig2.jpg" group-title="PE | DISNEY ",Piratas del Caribe: La venganza de Salazar (2017)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1774794.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Misterio en Venecia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWz6Aa2chxcNUgAQNooYS4yyLkC.jpg" group-title="PE | DISNEY ",Misterio en Venecia (2023)
@@ -59838,7 +59705,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1692925.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Atlantis (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJfBAah7NoDEGg0vTBGT8jj96rK.jpg" group-title="PE | DISNEY ",Atlantis (1991)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1692920.mp4
 
-PE | DISNEY SHORTS
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Forky hace una pregunta: ¿Qué es el tiempo? (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9ADlgfbyZPHjEGncClCWMGEjXY.jpg" group-title="PE | DISNEY SHORTS",Forky hace una pregunta: ¿Qué es el tiempo? (2019)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1794296.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El hombre orquesta (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOn5Rr0KO0ahTQtr5uulYCE46cd.jpg" group-title="PE | DISNEY SHORTS",El hombre orquesta (2005)
@@ -60078,7 +59944,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1794179.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Goofy: Cómo nadar (1942)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kPrqirhoy2zIKwhti7xFwUBrIE.jpg" group-title="PE | DISNEY SHORTS",Goofy: Cómo nadar (1942)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1794178.mp4
 
-PE | DOCUMENTAL
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Pray Away: Reza y dejarás de ser gay (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wikrtZZZoThwnHulB7klQek4Ai.jpg" group-title="PE | DOCUMENTAL",Pray Away: Reza y dejarás de ser gay (2021)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1691411.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Kate Winslet, résolument actrice (2024)" tvg-logo="" group-title="PE | DOCUMENTAL",Kate Winslet, résolument actrice (2024)
@@ -61658,7 +61523,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1690618.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Secretos del deporte: El salón de la infamia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXrC0g0xg07FCxvoHpfLjB7cCoE.jpg" group-title="PE | DOCUMENTAL",Secretos del deporte: El salón de la infamia (2023)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1690617.mp4
 
-PE | DOMINICANAS
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Todo incluido (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pabheZYmw1Mim7jsd6Ob8yAWQrP.jpg" group-title="PE | DOMINICANAS",Todo incluido (2008)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1862649.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Un macho de mujer (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clOQuqD7HvYIfNJvvcRX96swSct.jpg" group-title="PE | DOMINICANAS",Un macho de mujer (2006)
@@ -61738,7 +61602,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1862612.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Pasao de libras (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0ppvsrVeAF4LvLnmp0NPwhOXTl.jpg" group-title="PE | DOMINICANAS",Pasao de libras (2017)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1862611.mp4
 
-PE | DRAMA
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Un simple accidente (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEOFCfTqmee7nmuC2r4UEsMI39a.jpg" group-title="PE | DRAMA",Un simple accidente (2025)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1825698.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Entre el amor y el juego (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nFfe4zfekpRnjZnxukGhB2rbMh.jpg" group-title="PE | DRAMA",Entre el amor y el juego (1999)
@@ -72234,7 +72097,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/153187.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La chica del tren (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGtyNQ7Ioyv1AZ5aSOpL0Jlqwxx.jpg" group-title="PE | DRAMA",La chica del tren (2016)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/146468.mp4
 
-PE | ESPECIAL DÍA DE LAS MADRES
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La Madre (2023)" tvg-logo="http://dns.vip-kings-cr-tv.vip:2095/images/2011016b1d343e688d575af7b83cf2f0.jpg" group-title="PE | ESPECIAL DÍA DE LAS MADRES",La Madre (2023)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1834329.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="¡Madre! (2017)" tvg-logo="http://dns.vip-kings-cr-tv.vip:2095/images/9a1be0a70d1229fecf478fa2888c7260.jpg" group-title="PE | ESPECIAL DÍA DE LAS MADRES",¡Madre! (2017)
@@ -72280,7 +72142,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1834305.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Brave (Indomable) (2012)" tvg-logo="" group-title="PE | ESPECIAL DÍA DE LAS MADRES",Brave (Indomable) (2012)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1834304.mkv
 
-PE | ESPECIAL DÍA DEL PADRE
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="No se Aceptan Devoluciones (2013)" tvg-logo="http://dns.vip-kings-cr-tv.vip:2095/images/b9864f490fc57c74ee17f8b0d863a6cd.jpg" group-title="PE | ESPECIAL DÍA DEL PADRE",No se Aceptan Devoluciones (2013)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1825804.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Papás por Siempre (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vC9ufyEuCbvojVvl9i6FXN3n06e.jpg" group-title="PE | ESPECIAL DÍA DEL PADRE",Papás por Siempre (1993)
@@ -72356,7 +72217,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1825766.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El padre de la novia (2022)" tvg-logo="http://dns.vip-kings-cr-tv.vip:2095/images/339dd1548e2372aa2d389ffe019706e8.jpg" group-title="PE | ESPECIAL DÍA DEL PADRE",El padre de la novia (2022)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1825765.mkv
 
-PE | ESTRENOS 2023
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hell House LLC Origins: The Carmichael Manor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsd1ovBNOhYpQElhlZAqpMo51q6.jpg" group-title="PE | ESTRENOS 2023",Hell House LLC Origins: The Carmichael Manor (2023)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1931712.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Las irresponsables (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhPhpZ2Hch3Bm2VcVHm6ZiUIHhc.jpg" group-title="PE | ESTRENOS 2023",Las irresponsables (2025)
@@ -73996,7 +73856,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1500074.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Mujer Valiente (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdqbujWmlmsdVm62Ob8sGuC2kDk.jpg" group-title="PE | ESTRENOS 2023",Mujer Valiente (2023)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1406388.mkv
 
-PE | ESTRENOS 2024
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Contrato de las sombras (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18uZlNHBCUnXbuCrAYACjDwv8SF.jpg" group-title="PE | ESTRENOS 2024",Contrato de las sombras (2024)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1931126.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Mutante Destino sombrío (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKhOLSU0XlvPVE4m0hCMuJ2fFc4.jpg" group-title="PE | ESTRENOS 2024",Mutante Destino sombrío (2024)
@@ -75170,7 +75029,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1332542.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El último aliento (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyKkecH1we96Ko6N0gMbuhwVlGL.jpg" group-title="PE | ESTRENOS 2024",El último aliento (2024)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1332519.mp4
 
-PE | ESTRENOS 2025
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Lurker (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rbY3fjXQpt4sQLQvKD7CT6oJsS.jpg" group-title="PE | ESTRENOS 2025",Lurker (2025)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1934601.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Vida privada (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FGnuUdNLcdYtDjg3XP69ejXEhq.jpg" group-title="PE | ESTRENOS 2025",Vida privada (2025)
@@ -76522,7 +76380,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1332414.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Ad Vitam (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZqM7bLNmHdyj658gqtifrV5afl.jpg" group-title="PE | ESTRENOS 2025",Ad Vitam (2025)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1332413.mkv
 
-PE | ESTRENOS 2026
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Solo Mio (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efSsZJaddeq0LOABZqpCXdMxv9P.jpg" group-title="PE | ESTRENOS 2026",Solo Mio (2026)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1935058.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Caminos del crimen (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miotpWL3RXeTvLJnkhaoWcbXvJf.jpg" group-title="PE | ESTRENOS 2026",Caminos del crimen (2026)
@@ -76658,7 +76515,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1776900.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Otro amor fuera de tiempo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfjzw57NlPqiuAEw6zB1WbTRBfE.jpg" group-title="PE | ESTRENOS 2026",Otro amor fuera de tiempo (2026)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1774797.mkv
 
-PE | ESTRENOS CAM
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="¡La novia! (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCFqd7Kol8RpS468NVOdXSU8Fg6.jpg" group-title="PE | ESTRENOS CAM",¡La novia! (2026)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1929927.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="“Cumbres Borrascosas” (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afGUJcMBJloAUp9uC27MQiqkD7X.jpg" group-title="PE | ESTRENOS CAM",“Cumbres Borrascosas” (2026)
@@ -76690,7 +76546,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1452629.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DAN DA DAN: Evil Eye (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmg38wQ4Si1iAfZemjJ8QdSmjw2.jpg" group-title="PE | ESTRENOS CAM",DAN DA DAN: Evil Eye (2025)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1402387.mp4
 
-PE | FAMILIAR
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Mia y el león blanco (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlP3Ci2d2A3HuZFzl3OHlDGQrQt.jpg" group-title="PE | FAMILIAR",Mia y el león blanco (2018)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1690454.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Ellas dan el golpe (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHVHUVhE7RqjtecoSAnqYukiIos.jpg" group-title="PE | FAMILIAR",Ellas dan el golpe (1992)
@@ -77510,7 +77365,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1690047.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Chang machaca (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijgY6uYwNqkVIgG9T6TTkdgt2Wi.jpg" group-title="PE | FAMILIAR",Chang machaca (2023)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1690046.mp4
 
-PE | FANTASÍA
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Spider-Man (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg" group-title="PE | FANTASÍA",Spider-Man (2002)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1735183.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="owde" tvg-logo="" group-title="PE | FANTASÍA",owde
@@ -78448,7 +78302,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1734712.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hermosas criaturas (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBkaPqZAGgfuTC4bkRrREJQigZF.jpg" group-title="PE | FANTASÍA",Hermosas criaturas (2013)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1734711.mkv
 
-PE | FMS ARGENTINA (2018-2019)
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="WOS vs STUART -  FMS ROSARIO Jornada 5 Argentina - Temporada 2018#2019" tvg-logo="https://i.postimg.cc/502y3sxD/Postres-20250522-065907-0000.png" group-title="PE | FMS ARGENTINA (2018-2019)",WOS vs STUART -  FMS ROSARIO Jornada 5 Argentina - Temporada 2018#2019
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1384205.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="WOS vs REPLIK # FMS Argentina - Jornada 3 # Temporada 2018#2019 # Urban Roosters" tvg-logo="https://i.postimg.cc/502y3sxD/Postres-20250522-065907-0000.png" group-title="PE | FMS ARGENTINA (2018-2019)",WOS vs REPLIK # FMS Argentina - Jornada 3 # Temporada 2018#2019 # Urban Roosters
@@ -78602,7 +78455,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1384123.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CACHA VS MKS - FMS TUCUMAN JORNADA JORNADA 3 TEMPORADA 2019" tvg-logo="https://i.postimg.cc/502y3sxD/Postres-20250522-065907-0000.png" group-title="PE | FMS ARGENTINA (2018-2019)",CACHA VS MKS - FMS TUCUMAN JORNADA JORNADA 3 TEMPORADA 2019
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1384122.mp4
 
-PE | GUATEMALTECAS
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="1104 Sutton Road (1958)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mt8nJr13HV3hf7z84wqieLHFFjw.jpg" group-title="PE | GUATEMALTECAS",1104 Sutton Road (1958)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1230830.m4v
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="M 22.079 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PE | GUATEMALTECAS",M 22.079 (2015)
@@ -78842,7 +78694,6 @@ https://zona593movie.com:8443/movie/kingsRestream/vdt9U7kFXE/784394.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="App" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlJTIFUbTBCqpOuLltLC8nlqkvL.jpg" group-title="PE | GUATEMALTECAS",App
 https://playeriptv.com/app
 
-PE | HBO MAX
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Avatar: El sentido del agua (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckeTumMS4G31UQ9NNkmtW2QhfMF.jpg" group-title="PE | HBO MAX",Avatar: El sentido del agua (2022)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1831617.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Dune: Parte dos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCHmhHeO7aOCMlzcNukGH6Q7EiD.jpg" group-title="PE | HBO MAX",Dune: Parte dos (2024)
@@ -80082,7 +79933,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1423577.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Matrix (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfFD10ZqEx2vkxM2yvRZkybsGB7.jpg" group-title="PE | HBO MAX",Matrix (1998)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1423576.mkv
 
-PE | HINDU
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Darlings (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MXefkKvDTqoA1WNzfVGjJpW8Xe.jpg" group-title="PE | HINDU",Darlings (2023)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1861699.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Bāhubali: The Beginning (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYnLA3fA05OZ6YVepV8qjnfu484.jpg" group-title="PE | HINDU",Bāhubali: The Beginning (2015)
@@ -80208,7 +80058,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1861639.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Sky Is Pink (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXseh5pR0NuuNhHhyhM5DasqL8v.jpg" group-title="PE | HINDU",The Sky Is Pink (2019)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1861638.mkv
 
-PE | HISTORIA
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El Mártir del Calvario (1952)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3a5yMixJh0aR86eUNGMEaSqSWoM.jpg" group-title="PE | HISTORIA",El Mártir del Calvario (1952)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1554891.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Venus negra (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1atcOo7DStKLJ94nzLul1VAXfxf.jpg" group-title="PE | HISTORIA",Venus negra (2010)
@@ -80466,7 +80315,6 @@ http://matrivagoweb.xyz:2095/movie/61093343peli/25234134/135022.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Ben (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PE | HISTORIA",Ben (2001)
 http://matrivagoweb.xyz:2095/movie/61093343peli/25234134/92788.mkv
 
-PE | INFANTIL
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La Gran Aventura LEGO 2 (2019)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/c97a511a9e807ba4d41cbcf761525cdd.jpg" group-title="PE | INFANTIL",La Gran Aventura LEGO 2 (2019)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1688844.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Un Gato con Suerte (2024)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/bdc0f64461eee6c6670cd5f92b631694.jpg" group-title="PE | INFANTIL",Un Gato con Suerte (2024)
@@ -82256,7 +82104,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1687952.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Home: No hay lugar como el hogar (2015)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/440fc13d05fc0aeb1b5c73555bd9af24.jpg" group-title="PE | INFANTIL",Home: No hay lugar como el hogar (2015)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1687951.mkv
 
-PE | MAD MAX
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Mad Max 2: El Guerrero de la Carretera (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udpVgRB3xz5ZN553apthn4TyT6G.jpg" group-title="PE | MAD MAX",Mad Max 2: El Guerrero de la Carretera (1981)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1861704.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Mad Max: Furia en el camino (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnY0VRsb31A5RLVCBjuR6EFUlo2.jpg" group-title="PE | MAD MAX",Mad Max: Furia en el camino (2015)
@@ -82266,7 +82113,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1861702.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Mad Max 3: Más Allá de la Cúpula del Trueno (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgmOX4PQl5xPAdAx18zPPnQjQKs.jpg" group-title="PE | MAD MAX",Mad Max 3: Más Allá de la Cúpula del Trueno (1985)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1861701.mkv
 
-PE | MARVEL & DC
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Deadpool 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84NUrv5kuMUDDlOPqi97KGJMdLm.jpg" group-title="PE | MARVEL & DC",Deadpool 2 (2018)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1525564.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Vengadores: Endgame (2019)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/1681fcf562bf7294f05a78f617221fcb.jpg" group-title="PE | MARVEL & DC",Vengadores: Endgame (2019)
@@ -82440,7 +82286,6 @@ https://zona593movie.com:8443/movie/kingsRestream/vdt9U7kFXE/583719.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Érase una vez Deadpool (2018)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/f93cbad3b8c72bf1dc98ff2fd12ce244.jpg" group-title="PE | MARVEL & DC",Érase una vez Deadpool (2018)
 https://zona593movie.com:8443/movie/kingsRestream/vdt9U7kFXE/595965.mkv
 
-PE | MAS VISTAS
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Ip Man: Kung Fu Master (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/usmTsXE83nyhLmft6YvuJ2XLJaa.jpg" group-title="PE | MAS VISTAS",Ip Man: Kung Fu Master (2019)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1866682.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Ip Man: La lucha final (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7e3xBpcHNSyuVarU2mbZpdU6VT5.jpg" group-title="PE | MAS VISTAS",Ip Man: La lucha final (2013)
@@ -82748,7 +82593,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1735186.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Ruby, aventuras de una kraken adolescente (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAU8CSAY5aCS91dSD5oky5TZcJU.jpg" group-title="PE | MAS VISTAS",Ruby, aventuras de una kraken adolescente (2023)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1735185.mp4
 
-PE | MISTERIO
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Crawlspace (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hceMRUCPeczENjVLTGoSiz9zWye.jpg" group-title="PE | MISTERIO",Crawlspace (2013)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1746073.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La isla de las mentiras (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UQcLwX1i9teXkuSBfX6E3TAWYF.jpg" group-title="PE | MISTERIO",La isla de las mentiras (2020)
@@ -83520,7 +83364,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1745688.avi
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Bull (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWDttpdPe0fNA1l6fzbiyy8cBQK.jpg" group-title="PE | MISTERIO",Bull (2021)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1745687.mp4
 
-PE | MÚSICA
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Metallica: S&M Collection" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8nRraj8CKZPTeMqlUzmgYoXlNW.jpg" group-title="PE | MÚSICA",Metallica: S&M Collection
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1516879.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La canción de mi padre (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipAe6in3Pqr4Jnt454liUu7z5b2.jpg" group-title="PE | MÚSICA",La canción de mi padre (2018)
@@ -83806,7 +83649,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/145927.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Orfeo Chamán (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AKesBjr4J5SVO5aX5hoZrx1QBk.jpg" group-title="PE | MÚSICA",Orfeo Chamán (2016)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/145818.mkv
 
-PE | NARCOS
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Asalto Bancario (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PE | NARCOS",Asalto Bancario (1998)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1812212.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La verdadera historia de Culiacan vs Mazatlan (2016)" tvg-logo="http://dns.vip-kings-cr-tv.vip:2095/images/daf887990183618a5ced0dbae0737350.jpg" group-title="PE | NARCOS",La verdadera historia de Culiacan vs Mazatlan (2016)
@@ -83978,7 +83820,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1812129.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="LA ULTIMA BALA (2017)" tvg-logo="http://dns.vip-kings-cr-tv.vip:2095/images/e96ff6da8b28691ffe72376554f0fa0f.jpg" group-title="PE | NARCOS",LA ULTIMA BALA (2017)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1812128.mp4
 
-PE | NAVIDEÑAS
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Un cuento de Navidad (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oi1NcVDXlFEsdpLp37BJmFbVlg9.jpg" group-title="PE | NAVIDEÑAS",Un cuento de Navidad (1999)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1770698.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El Grinch (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3b6DOiePNlNOiqLCzCvqvDvHpL.jpg" group-title="PE | NAVIDEÑAS",El Grinch (2018)
@@ -84576,7 +84417,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1685725.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="A Christmas Number One (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qkUG6UcUXwkrobQOtWfjcPQr76.jpg" group-title="PE | NAVIDEÑAS",A Christmas Number One (2021)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1685724.mp4
 
-PE | NETFLIX
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El santuario (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGgQ5Z7FAgrCsBIPQEQQHDA63FK.jpg" group-title="PE | NETFLIX",El santuario (2011)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1868099.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Training Day (Día de entrenamiento) (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nagh5PjkfBnDf5SKXyHupWu4yod.jpg" group-title="PE | NETFLIX",Training Day (Día de entrenamiento) (2001)
@@ -90938,7 +90778,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1514640.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Punto rojo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2KhGQQXdunhiJZuuIxGu27rji.jpg" group-title="PE | NETFLIX",Punto rojo (2021)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1509703.mp4
 
-PE | OCCIDENTAL
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Comanchería (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGihwoxhAjPrnrjpTPowuIOU3jy.jpg" group-title="PE | OCCIDENTAL",Comanchería (2016)
 http://matrivagoweb.xyz:2095/movie/61093343peli/25234134/324497.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Gone Are the Days (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLBYLf6gh9Ud1JsAreyQzOCOazu.jpg" group-title="PE | OCCIDENTAL",Gone Are the Days (2018)
@@ -91024,7 +90863,6 @@ http://matrivagoweb.xyz:2095/movie/61093343peli/25234134/92914.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Bone Tomahawk (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFAE4LhOsjevrhUmYoVtRLuy6I6.jpg" group-title="PE | OCCIDENTAL",Bone Tomahawk (2015)
 http://matrivagoweb.xyz:2095/movie/61093343peli/25234134/92796.mkv
 
-PE | PELÍCULA DE TELEVISIÓN
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Deadwood: La película (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crF3Q7tFEOeRWfmuSwj4ZkIryH9.jpg" group-title="PE | PELÍCULA DE TELEVISIÓN",Deadwood: La película (2019)
 http://matrivagoweb.xyz:2095/movie/61093343peli/25234134/297750.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Rastros de sangre (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5q7ZuKYvHE7Xl59PV9Kt154Mx96.jpg" group-title="PE | PELÍCULA DE TELEVISIÓN",Rastros de sangre (2006)
@@ -91098,7 +90936,6 @@ http://matrivagoweb.xyz:2095/movie/61093343peli/25234134/93251.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El fantasma de Canterville (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t5W2bFfkXfNx5s1gjTunQWvG9xB.jpg" group-title="PE | PELÍCULA DE TELEVISIÓN",El fantasma de Canterville (2023)
 http://matrivagoweb.xyz:2095/movie/61093343peli/25234134/87041.mkv
 
-PE | PERUANAS
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Climas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRKfDyUT1KQvL4nfguKVEWWNHAL.jpg" group-title="PE | PERUANAS",Climas (2015)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1862955.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sangra. Grita. Late! (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCudiYxoeBPpTgHWhkSG9yXH4k1.jpg" group-title="PE | PERUANAS",Sangra. Grita. Late! (2017)
@@ -91540,7 +91377,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1862675.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="¡Asu Mare! Los amigos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKH8hvs6aNT3SH0brcgepUNokny.jpg" group-title="PE | PERUANAS",¡Asu Mare! Los amigos (2023)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1862674.mp4
 
-PE | PREMIOS OSCAR
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El último emperador (1987)" tvg-logo="" group-title="PE | PREMIOS OSCAR",El último emperador (1987)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1687679.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Seabiscuit (2003)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/d1f420fb220b2b5c02e78818fbab8351.jpg" group-title="PE | PREMIOS OSCAR",Seabiscuit (2003)
@@ -91930,7 +91766,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1687487.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Historias Cruzadas (2011)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/96a19e17a11e0d999198f2495dd615de.jpg" group-title="PE | PREMIOS OSCAR",Historias Cruzadas (2011)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1687486.mkv
 
-PE | PRIME VIDEO
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Viaje de chicas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63WP0TLyaOksjBdEqpFKwuYjpso.jpg" group-title="PE | PRIME VIDEO",Viaje de chicas (2017)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1935061.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Un sueño posible (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDZJph23idOLBmImnuaZBlF3TgP.jpg" group-title="PE | PRIME VIDEO",Un sueño posible (2009)
@@ -92430,7 +92265,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1383642.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Air: La historia detrás del logo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ypRUscxdPXjF2o3BzsKsCUrkpK.jpg" group-title="PE | PRIME VIDEO",Air: La historia detrás del logo (2023)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1379081.mp4
 
-PE | RECETAS POSTRES SIN HORNO
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TRANSFORMA CARAMELOS EN HELADO ❤️ HELADO DE CARAMELOS - Tutoriales Belen" tvg-logo="https://i.postimg.cc/bwHCN5H7/Postres-20250521-220144-0000.png" group-title="PE | RECETAS POSTRES SIN HORNO",TRANSFORMA CARAMELOS EN HELADO ❤️ HELADO DE CARAMELOS - Tutoriales Belen
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1384118.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Recetas que tienes que probar # postres sin horno fáciles y rápidos - Tutoriales Belen" tvg-logo="https://i.postimg.cc/bwHCN5H7/Postres-20250521-220144-0000.png" group-title="PE | RECETAS POSTRES SIN HORNO",Recetas que tienes que probar # postres sin horno fáciles y rápidos - Tutoriales Belen
@@ -92492,7 +92326,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1384083.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="20 IDEAS QUE PUEDES HACER CUANDO ESTAS ABURRIDO - Tutoriales Belen" tvg-logo="https://i.postimg.cc/bwHCN5H7/Postres-20250521-220144-0000.png" group-title="PE | RECETAS POSTRES SIN HORNO",20 IDEAS QUE PUEDES HACER CUANDO ESTAS ABURRIDO - Tutoriales Belen
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1384082.mp4
 
-PE | RECETAS SALUDABLES
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Súper hamburguesa vegana # Recetas ricas y saludables" tvg-logo="https://marketplace.canva.com/EAFJDZa7CVA/1/0/800w/canva-post-de-instagram-comida-saludable-dieta-alimentaci%C3%B3n-sana-consejos-tips-onj3UOBVQ1c.jpg" group-title="PE | RECETAS SALUDABLES",Súper hamburguesa vegana # Recetas ricas y saludables
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1384079.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SOPA CREMA DE VERDURAS # 3 RECETAS SALUDABLES Y RICAS" tvg-logo="https://marketplace.canva.com/EAFJDZa7CVA/1/0/800w/canva-post-de-instagram-comida-saludable-dieta-alimentaci%C3%B3n-sana-consejos-tips-onj3UOBVQ1c.jpg" group-title="PE | RECETAS SALUDABLES",SOPA CREMA DE VERDURAS # 3 RECETAS SALUDABLES Y RICAS
@@ -92526,7 +92359,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1384065.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="10 TRUCOS DE COCINA SANA FÁCILES QUE DEBERIAS CONOCER" tvg-logo="https://marketplace.canva.com/EAFJDZa7CVA/1/0/800w/canva-post-de-instagram-comida-saludable-dieta-alimentaci%C3%B3n-sana-consejos-tips-onj3UOBVQ1c.jpg" group-title="PE | RECETAS SALUDABLES",10 TRUCOS DE COCINA SANA FÁCILES QUE DEBERIAS CONOCER
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1384064.mp4
 
-PE | RELIGIOSAS
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Cuarto de guerra (2015)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/f9d2c22804325c9d0f2a2e48e63cd85f.jpg" group-title="PE | RELIGIOSAS",Cuarto de guerra (2015)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1784370.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Una cuestión de fe (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWAANrMSUsPyEcy9MHcRCyikN4Q.jpg" group-title="PE | RELIGIOSAS",Una cuestión de fe (2017)
@@ -92828,13 +92660,11 @@ http://playtv44.com:8080/movie/61093343/123456/134779.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Una cuestión de fe (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWAANrMSUsPyEcy9MHcRCyikN4Q.jpg" group-title="PE | RELIGIOSAS",Una cuestión de fe (2017)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/146677.mp4
 
-PE | REPETICIÓN PARTIDOS
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="final de la UEFA Nations League Portugal vs. España - 8 de junio de 2025" tvg-logo="https://i.ibb.co/yFj0B3ZZ/portugal-vs-espa-a-2025-final.jpg" group-title="PE | REPETICIÓN PARTIDOS",final de la UEFA Nations League Portugal vs. España - 8 de junio de 2025
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1397158.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="FINAL CHAMPIONS PSG VRS INTER 31 de mayo de 2025" tvg-logo="https://i.ibb.co/PZPxtspV/495450424-1101283645367013-3715906062833157442-n.jpg" group-title="PE | REPETICIÓN PARTIDOS",FINAL CHAMPIONS PSG VRS INTER 31 de mayo de 2025
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1389860.mp4
 
-PE | RETRO
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Jamón, jamón (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SDnqxX2XMOEQMZhBAGMx3kPc8u.jpg" group-title="PE | RETRO",Jamón, jamón (1992)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1825762.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Willow en la tierra del encanto (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kymxskRkwRGGrlJLdneItwTIAHm.jpg" group-title="PE | RETRO",Willow en la tierra del encanto (1988)
@@ -93124,7 +92954,6 @@ http://matrivagoweb.xyz:2095/movie/61093343peli/25234134/291954.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Gremlins (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73Lf0JYHyWyZQGu04wvzzM3hh0l.jpg" group-title="PE | RETRO",Gremlins (1984)
 http://matrivagoweb.xyz:2095/movie/61093343peli/25234134/92933.mkv
 
-PE | RETRO ANIMADAS
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La Espada en La Piedra (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1H3jTJUZLrprxOMH1w8cQD1PBl.jpg" group-title="PE | RETRO ANIMADAS",La Espada en La Piedra (1963)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1870379.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Pocahontas (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg" group-title="PE | RETRO ANIMADAS",Pocahontas (1995)
@@ -93200,7 +93029,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/146210.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sonic the Hedgehog: The Movie (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8smSXOYjWNk7toWZ6KhpIFh6dVq.jpg" group-title="PE | RETRO ANIMADAS",Sonic the Hedgehog: The Movie (1996)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/146151.mkv
 
-PE | ROMANCE
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Culpa nuestra (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kmi6vmp6iOn4KzI7WfnVtAeJhU.jpg" group-title="PE | ROMANCE",Culpa nuestra (2025)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1811840.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Culpa mía: Londres (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0HxfkF9eoa6wSVnzwMhuDSK7ba.jpg" group-title="PE | ROMANCE",Culpa mía: Londres (2025)
@@ -94562,7 +94390,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1689362.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Allure (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0eKtwk2vF2Z3Rp6rIhM90R35BO.jpg" group-title="PE | ROMANCE",Allure (2018)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1689361.mp4
 
-PE | SAGAS
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Deseos de venganza (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wcL25ODjWDIwkahTg40WFMKOXC.jpg" group-title="PE | SAGAS",Deseos de venganza (2018)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1923223.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sentencia de muerte (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJjMEfvo40r8UzxXG7Ws9ZAIrDs.jpg" group-title="PE | SAGAS",Sentencia de muerte (1990)
@@ -94796,11 +94623,9 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1232297.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="John Wick: NYC Noir (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOy0Y9AygYgUFV28dNcQt1bloZh.jpg" group-title="PE | SAGAS",John Wick: NYC Noir (2015)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1232295.mkv
 
-PE | SEMANA SANTA
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Los Diez Mandamientos (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUfNxdftpiADE92Ch2Z0IRZjwwm.jpg" group-title="PE | SEMANA SANTA",Los Diez Mandamientos (1956)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1242151.mp4
 
-PE | SHORTS (MÓVILES)
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DE CAMPESINA A REINA: LA HIJA DEL DESTINO (SHORTS)" tvg-logo="https://i.postimg.cc/t4HbBPJh/Texto-dorado-sobre-fondo-negro.png" group-title="PE | SHORTS (MÓVILES)",DE CAMPESINA A REINA: LA HIJA DEL DESTINO (SHORTS)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1669089.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El Amor Sepultado Por El Odio (SHORTS)" tvg-logo="https://i.postimg.cc/t4HbBPJh/Texto-dorado-sobre-fondo-negro.png" group-title="PE | SHORTS (MÓVILES)",El Amor Sepultado Por El Odio (SHORTS)
@@ -94862,7 +94687,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1492070.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="(SHORTS) MI ESPOSO MUDO ES UN CELOSO EMPEDERNIDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp1RcHT9yeS1fMX4yf9D2_bKx80duocKW1vg&s" group-title="PE | SHORTS (MÓVILES)",(SHORTS) MI ESPOSO MUDO ES UN CELOSO EMPEDERNIDO
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1492067.mp4
 
-PE | SUSPENSO
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Críticas de Obsesión del pasado (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qA4I1WNIKS8uheVzEGNnCeeEzVf.jpg" group-title="PE | SUSPENSO",Críticas de Obsesión del pasado (2009)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1796835.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Vanilla Sky (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg" group-title="PE | SUSPENSO",Vanilla Sky (2001)
@@ -95508,7 +95332,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1499624.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La chica en el sótano (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4p6uMC8PxEHSY5hJR0KJkOt3wPk.jpg" group-title="PE | SUSPENSO",La chica en el sótano (2021)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1382583.mp4
 
-PE | TERROR
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La noche de los demonios 3 (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQ8ope8HVjLrO5G3WXAEgrFvAd.jpg" group-title="PE | TERROR",La noche de los demonios 3 (1997)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1825710.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hunting Grounds (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRBKoxKO5F23jfJXSlgKb5Dz5Ju.jpg" group-title="PE | TERROR",Hunting Grounds (2025)
@@ -99454,7 +99277,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1476854.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="It: Capítulo 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oERKIVyTWpHNum3STVsAGD4ojz.jpg" group-title="PE | TERROR",It: Capítulo 2 (2019)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1244585.mkv
 
-PE | TOP DEL DÍA
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El Guardián: Último refugio (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1knvM0CSG1TWWEdgz4AVqb5CXP.jpg" group-title="PE | TOP DEL DÍA",El Guardián: Último refugio (2026)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1931624.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="13 Dias En El Lago De La Muerte (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wm8vkpJmY7UbUXME8lXkxqIalX6.jpg" group-title="PE | TOP DEL DÍA",13 Dias En El Lago De La Muerte (2024)
@@ -99488,7 +99310,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1684166.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Superman (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvUJb08yatV2b3NUSwuYdQKYoFd.jpg" group-title="PE | TOP DEL DÍA",Superman (2025)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1444779.mkv
 
-PE | VAN DAMME
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Decisión crítica (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbVrvCi8UPTPjdnX3Lm7C4pmXj1.jpg" group-title="PE | VAN DAMME",Decisión crítica (1996)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1861637.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Operación rescate (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMMWKDIKnAxKkuVJOMlXgsxwQ8k.jpg" group-title="PE | VAN DAMME",Operación rescate (2025)
@@ -99572,7 +99393,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1861598.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Double Team (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPld99AspbPcTI979EsOj3faE9r.jpg" group-title="PE | VAN DAMME",Double Team (1997)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1861597.mkv
 
-PE | VAQUERAS
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Infierno en la frontera (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PE | VAQUERAS",Infierno en la frontera (1990)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1552372.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La balada de Buster Scruggs (2018)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/eb7c226da5f0e6bdf21f75aaac4ed8e5.jpg" group-title="PE | VAQUERAS",La balada de Buster Scruggs (2018)
@@ -100096,7 +99916,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/822933.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Five (2013)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/728abbaac9fdf23127daf83a2c3c22cd.jpg" group-title="PE | VAQUERAS",The Five (2013)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/822932.mkv
 
-PE | ZOMBIES
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ZOMBIES Halloween Cast Party (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bifIIOOY9Ckr0tbIAFPiiMB5qaa.jpg" group-title="PE | ZOMBIES",ZOMBIES Halloween Cast Party (2018)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1834353.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Cabin Fever: Patient Zero (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5A4wV8k9Kv2OY3XjI9WDA5qsAkD.jpg" group-title="PE | ZOMBIES",Cabin Fever: Patient Zero (2014)
@@ -100144,7 +99963,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1834332.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Demented (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awKGmNSanNgdo5ilAa34i4ymiVf.jpg" group-title="PE | ZOMBIES",The Demented (2021)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1834331.mp4
 
-PE | ÁNGEL STUDIOS
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Lost on a Mountain in Maine (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elKEzHpbdoTMkK0IpUKcK6x1Ttl.jpg" group-title="PE | ÁNGEL STUDIOS",Lost on a Mountain in Maine (2024)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1551946.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sight (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/840tUAFSES0G5SD0xQHRnuCBIgu.jpg" group-title="PE | ÁNGEL STUDIOS",Sight (2023)
@@ -100184,7 +100002,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1551929.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sabina: Tortured for Christ, the Nazi Years (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A76Kz32h7Q6uFdQOCBHi4JEg1yO.jpg" group-title="PE | ÁNGEL STUDIOS",Sabina: Tortured for Christ, the Nazi Years (2021)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1551928.mkv
 
-PE| COLECCIÓN HARRY POTTER
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Harry Potter 20 Aniversario: Regreso a Hogwarts (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAwbyTKDbw7iqYptPMSlPfFsbPU.jpg" group-title="PE| COLECCIÓN HARRY POTTER",Harry Potter 20 Aniversario: Regreso a Hogwarts (2022)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1403971.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Harry Potter y la piedra filosofal (2001)" tvg-logo="https://i.postimg.cc/4yMbq4W3/harry-1.jpg" group-title="PE| COLECCIÓN HARRY POTTER",Harry Potter y la piedra filosofal (2001)
@@ -100204,7 +100021,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1403228.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Harry Potter y las reliquias de la muerte: Parte 2 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg" group-title="PE| COLECCIÓN HARRY POTTER",Harry Potter y las reliquias de la muerte: Parte 2 (2011)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1403225.mkv
 
-PE| COLECCIÓN RAPIDOS Y FURIOSOS
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Rápido y furioso (2001)" tvg-logo="https://i.ibb.co/63ndr3X/rapidos-y-furiosos-1.png" group-title="PE| COLECCIÓN RAPIDOS Y FURIOSOS",Rápido y furioso (2001)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1404570.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Más rápido, más furioso (2003)" tvg-logo="https://i.ibb.co/21pLXK9t/rapidos-y-furiosos-2.png" group-title="PE| COLECCIÓN RAPIDOS Y FURIOSOS",Más rápido, más furioso (2003)
@@ -100224,7 +100040,6 @@ http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1404543.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Rápidos y furiosos X (2023)" tvg-logo="https://i.ibb.co/bjqPnRBL/rapidos-y-furiosos-10.png" group-title="PE| COLECCIÓN RAPIDOS Y FURIOSOS",Rápidos y furiosos X (2023)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1404540.mkv
 
-CINE DE ORO MEXICANO
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Río escondido (1948)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/79a9772421517d78875d2bcd1d59ac12.jpg" group-title="CINE DE ORO MEXICANO",Río escondido (1948)
 http://vip-kings-cr-tv.vip:2095/movie/Leonel61/LU581526024/1496025.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La malquerida (1949)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/0e04be82ab04ff9cb9cec3147c031847.jpg" group-title="CINE DE ORO MEXICANO",La malquerida (1949)
