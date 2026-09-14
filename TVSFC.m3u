@@ -77,7 +77,7 @@ https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/tdssololagt/chunks.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",TVS Sololá
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Totovision
+#EXTINF:-1 tvg-logo=https://static.wixstatic.com/media/7acae1_53119f9bd94741c9bbc6d971331cdaa4~mv2.png" group-title="✅ TV GUATEMALA ✅",Totovision
 https://lbgo.bozztv.com/ssh101/ssh101/totovisiongt/chunks.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Tv Florencia
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
@@ -105,8 +105,6 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/b08022c8-994e-468
 https://srt.servilive.com/live/gtv-63wlp.m3u8
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SanCrisVision" tvg-logo="" group-title="✅ TV GUATEMALA ✅",SanCrisVision
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1929921
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Totovisión HD" tvg-logo="https://static.wixstatic.com/media/7acae1_53119f9bd94741c9bbc6d971331cdaa4~mv2.png/v1/fill/w_262,h_262,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/totovision.png" group-title="✅ TV GUATEMALA ✅",Totovisión HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1868649
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Cómo Antes TV HD" tvg-logo="https://nubedeappskings.vip/logos/storage/comoantes.png" group-title="✅ TV GUATEMALA ✅",Cómo Antes TV HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1509318
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Canal 11 HD" tvg-logo="https://nubedeappskings.vip/logos/storage/once.png" group-title="✅ TV GUATEMALA ✅",Canal 11 HD
