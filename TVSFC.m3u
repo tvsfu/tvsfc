@@ -186,7 +186,7 @@ http://iptv.streamhispanatv.net:8080/live/playgt/playgt2023/571.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", 502 Visión Maya Tv
 https://cdn.streamhispanatv.net:3114/live/vmayatvlive.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Cariñosa Tv Canal 9
-https://live.carinosatv.com/canal/main_stream.m3u8
+https://live.carinosatv.com/canal/index.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal 13 Intercable
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Más Tv 
