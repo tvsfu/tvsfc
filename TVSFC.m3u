@@ -220,16 +220,8 @@ https://cdn.streamhispanatv.net:3989/live/tvolive.m3u8
 https://cdn.streamhispanatv.net:3090/live/tvnortelive.m3u8
 #EXTINF:-1 group-title="🇬🇹EVENTO MES PATRIO🇳🇬",Canal Telecosta Escuintla
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/chunklist_w796343196.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWAsN1k2lRSBgVve45iVpVcfwp5a1Tf_rYYEXHImf88w&s=10" group-title="🇬🇹EVENTO MES PATRIO🇳🇬", Producciones Crucero HD 
-https://scontent.fgua6-2.fna.fbcdn.net/hvideo-ftw-frc/_nc_cat-104/_nc_sr_t-4/v/rASdje5Xwds42zCq8fFShpWYCg5Bn7Nicwban06s6JPCcAQ/_nc_ohc-r8ll_TYZgagQ7kNvwFay734/live-dash/dash-abr3/1751728826431884.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AQIF6TDg3n2OOx4Ff9-pYFUpGzGlF38pk4N_YuS87d6XnA&oe=6AA9E11E
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIEeE-YicV6wCz4w8Y3MyZG-6jG3IxS5N03fmedFSYR2ocv9vqF3rxQ9U&s=10" group-title="🇬🇹EVENTO MES PATRIO🇳🇬", Producciones Cine Visión HD
-https://scontent.fgua6-1.fna.fbcdn.net/hvideo-cln-odn/_nc_cat-111/_nc_sr_t-4/v/rASfUoLu9woJqUAte4lWnIBxLIib-HX9s8hpNqllwd4ELiQ/_nc_ohc-yOt_D4YYE2cQ7kNvwGjwdab/live-dash/dash-abr3/122212092020541544.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AQKySu0tX3bDIJe2UO7zcHBc0fErdFZkVfJWsrmWx7Gvpg&oe=6AA9E6C7
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1P8FNvmItS9qUmLGxBAu9ZNqyOZg6Sn63FIHXrHddGTRYxquF44AISg&s=10" group-title="🇬🇹EVENTO MES PATRIO🇳🇬", Producciones Santay HD
-https://scontent.fgua4-1.fna.fbcdn.net/hvideo-vll-nha/_nc_cat-107/_nc_sr_t-4/v/rASec1h_N1gvW2GNdcncKeY4gQxYcGp5f1cQh6K62NvTK8w/_nc_ohc-7tGO1Nl5teAQ7kNvwFPH9OH/live-dash/dash-abr-ibr-audio/1060229843558099.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AQI89KElwzSVCGLY9ztOt4qXbUZeIlbhgcB4hdsDeoPdSg&oe=6AA9DC29 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwx5rGPnoMllxxus__Egby8NH6Fmz7b66cjBv_AKy_e6AFaW1aCpIGCSI&s=10" group-title="🇬🇹EVENTO MES PATRIO🇳🇬", Producciones González 
-https://scontent.fgua10-1.fna.fbcdn.net/hvideo-cln-lla/_nc_cat-105/_nc_sr_t-4/v/rASdxHmJPxTWBjaUhT37Nf1h1YvGOvwnwVumZ6j2ZhC2sTw/_nc_ohc-XF-e65jufxoQ7kNvwE_l8ut/live-dash/dash-abr3/122181929612850261.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AQJDzPyvIvAcM1kJCd6GO_yJ1Q1mP-yKPq8gezh3dmF5hw&oe=6AA9E770
-
+#EXTINF:-1 group-title="🇬🇹EVENTO MES PATRIO🇳🇬", GUATV
+https://stream.castr.com/6a6b6a5aa395248409704102/live_0be585b08c3611f1bf789b5cb219835e/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="⚽ EVENTO DIRECTO⚽ ", Fox 
 https://h4kuqqzp.39564828.net:8443/hls/xzwt2rhyf1d8s.m3u8?s=GrRntK2AwHMtwJpjOCRQsg&e=1779611073
