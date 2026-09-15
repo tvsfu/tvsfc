@@ -157,6 +157,8 @@ https://live20.bozztv.com/giatv/giatv-lapreferida/lapreferida/chunks.m3u8
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/542
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Imagen Toto 
 https://cdn.streamhispanatv.net:3587/live/imagentvlive.m3u8
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", La Voz De Toto 
+https://enmicanaldetv.transmitimosenvivo.com:3826/live/lavozdetotolive.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Imagen Guatemala 
 https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/chunklist_w796343196.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Tvo
@@ -220,8 +222,8 @@ https://cdn.streamhispanatv.net:3989/live/tvolive.m3u8
 https://cdn.streamhispanatv.net:3090/live/tvnortelive.m3u8
 #EXTINF:-1 group-title="🇬🇹EVENTO MES PATRIO🇳🇬",Canal Telecosta Escuintla
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-#EXTINF:-1 group-title="🇬🇹EVENTO MES PATRIO🇳🇬", GUATV
-https://stream.castr.com/6a6b6a5aa395248409704102/live_0be585b08c3611f1bf789b5cb219835e/index.fmp4.m3u8
+#EXTINF:-1 group-title="🇬🇹EVENTO MES PATRIO🇳🇬",La Voz De Toto
+https://enmicanaldetv.transmitimosenvivo.com:3826/live/lavozdetotolive.m3u8
 
 #EXTINF:-1 group-title="⚽ EVENTO DIRECTO⚽ ", Fox 
 https://h4kuqqzp.39564828.net:8443/hls/xzwt2rhyf1d8s.m3u8?s=GrRntK2AwHMtwJpjOCRQsg&e=1779611073
