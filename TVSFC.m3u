@@ -191,39 +191,11 @@ https://live.carinosatv.com/canal/index.m3u8
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Más Tv 
 https://cdn.streamhispanatv.net:3011/live/mastvgtlive.m3u8
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Doble X canal 15
+https://cdn.streamhispanatv.net:3080/live/tvdobleclive.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Worlds TV GUuatemala
 https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
-#EXTINF:-1 group-title="🇬🇹EVENTO MES PATRIO🇳🇬",Luna Visión TV
-https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
-#EXTINF:-1 group-title="🇬🇹EVENTO MES PATRIO🇳🇬",Mas Tv Toto
-https://cdn.streamhispanatv.net:3953/live/mastvtotolive.m3u8
-#EXTINF:-1 group-title="🇬🇹EVENTO MES PATRIO🇳🇬",Multivision Canal 3
-https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
-#EXTINF:-1 group-title="🇬🇹EVENTO MES PATRIO🇳🇬",Multivision Sports
-https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
-#EXTINF:-1 group-title="🇬🇹EVENTO MES PATRIO🇳🇬",TDS Solola
-https://lbgo.bozztv.com/ssh101/ssh101/tdssololagt/chunks.m3u8
-#EXTINF:-1 group-title="🇬🇹EVENTO MES PATRIO🇳🇬",Totovision
-https://lbgo.bozztv.com/ssh101/ssh101/totovisiongt/chunks.m3u8
-#EXTINF:-1 group-title="🇬🇹EVENTO MES PATRIO🇳🇬",Tv Globo Xela
-https://giatv.bozztv.com/giatv/giatv-tevegloboxela/tevegloboxela/playlist.m3u8
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TN23" tvg-logo="https://alba-gt-chapintv.cdn.mediatiquepress.com/wp-content/uploads/2022/03/TN23-2-700x432.jpg" group-title="🇬🇹EVENTO MES PATRIO🇳🇬",TN23
-https://d3qt8k30mpy8xx.cloudfront.net/medialist_15609871089997455276_hls.m3u8
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TV Azteca Guate HD" tvg-logo="https://nubedeappskings.vip/logos/storage/aztecaguate.png" group-title="🇬🇹EVENTO MES PATRIO🇳🇬",TV Azteca Guate HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338863
-#EXTINF:-1 group-title="🇬🇹EVENTO MES PATRIO🇳🇬",Canal 4 Ixíl
-https://cdn.streamhispanatv.net:3622/live/canalixillive.m3u8
-#EXTINF:-1 group-title="🇬🇹EVENTO MES PATRIO🇳🇬", Imagen Toto 
-https://cdn.streamhispanatv.net:3587/live/imagentvlive.m3u8
-#EXTINF:-1 group-title="🇬🇹EVENTO MES PATRIO🇳🇬", Imagen Guatemala 
-#EXTINF:-1 group-title="🇬🇹EVENTO MES PATRIO🇳🇬", Tvo
-https://cdn.streamhispanatv.net:3989/live/tvolive.m3u8
-#EXTINF:-1 group-title="🇬🇹EVENTO MES PATRIO🇳🇬", Tv Norte 
-https://cdn.streamhispanatv.net:3090/live/tvnortelive.m3u8
-#EXTINF:-1 group-title="🇬🇹EVENTO MES PATRIO🇳🇬",Canal Telecosta Escuintla
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-#EXTINF:-1 group-title="🇬🇹EVENTO MES PATRIO🇳🇬",La Voz De Toto
-https://enmicanaldetv.transmitimosenvivo.com:3826/live/lavozdetotolive.m3u8
+
 
 #EXTINF:-1 group-title="⚽ EVENTO DIRECTO⚽ ", Fox 
 https://h4kuqqzp.39564828.net:8443/hls/xzwt2rhyf1d8s.m3u8?s=GrRntK2AwHMtwJpjOCRQsg&e=1779611073
