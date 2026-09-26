@@ -17,8 +17,6 @@ https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
 https://cdn.streamhispanatv.net:3622/live/canalixillive.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal 5 Maya Tv
 https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal 5 Sololá
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/517
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal 6 Panajachel
 https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/chunklist_w1633061481_b2176000.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal 84 Cristo Te Llama
@@ -40,7 +38,7 @@ https://cdn.streamhispanatv.net:3831/live/conosurlive.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",El Olam Tv
 https://live.elolamtv.org:3927/live/elolamtvlivelive.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Espiritu Santo Y Fuego Tv
-https://inliveserver.com:1936/8392/8392/playlist.m3u8
+https://stream.inliveserver.com:19360/8056/8056.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Nuevo Mundo TV 
 https://tvlatina.live:1936/8008/8008/playlist.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",TV Maya
@@ -112,7 +110,7 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338857
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Canal 13 HD" tvg-logo="https://nubedeappskings.vip/logos/storage/trece.png" group-title="✅ TV GUATEMALA ✅",Canal 13 HD
 http://190.61.101.11:7050/play/a07f/index.m3u8
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Canal 3 HD" tvg-logo="https://nubedeappskings.vip/logos/storage/canal3.png" group-title="✅ TV GUATEMALA ✅",Canal 3 HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338859
+https://d3jocgwjuhw91y.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Canal 7 HD" tvg-logo="https://nubedeappskings.vip/logos/storage/canal 7.png" group-title="✅ TV GUATEMALA ✅",Canal 7 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338860
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TN23" tvg-logo="https://alba-gt-chapintv.cdn.mediatiquepress.com/wp-content/uploads/2022/03/TN23-2-700x432.jpg" group-title="✅ TV GUATEMALA ✅",TN23
@@ -127,8 +125,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338863
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338864
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Amigostv (chiquimul) HD" tvg-logo="https://nubedeappskings.vip/logos/storage/amigos.png" group-title="✅ TV GUATEMALA ✅",Amigostv (chiquimul) HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338866
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Canal 9 Barbe TV (hd)" tvg-logo="https://nubedeappskings.vip/logos/storage/barbe.png" group-title="✅ TV GUATEMALA ✅",Canal 9 Barbe TV (hd)
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338870
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Canal 9 Tolimán (hd)" tvg-logo="https://nubedeappskings.vip/logos/storage/toliman.png" group-title="✅ TV GUATEMALA ✅",Canal 9 Tolimán (hd)
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338872
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Peniel Musical (hd)" tvg-logo="https://nubedeappskings.vip/logos/storage/peniel.png" group-title="✅ TV GUATEMALA ✅",Peniel Musical (hd)
@@ -180,7 +176,7 @@ https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Jubilo Tv
 http://173.249.60.54/hls/jubilotv.m3u8#b39ed6ad6e6719436334ed68a8cb30968e4a261a6e8bda1f87ae40b44cedb10d
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Uncion TV
-http://iptv.streamhispanatv.net:8080/live/playgt/playgt2023/571.m3u8
+https://ia.cpustream.com/unciontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", 502 Visión Maya Tv
 https://cdn.streamhispanatv.net:3114/live/vmayatvlive.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Cariñosa Tv Canal 9
