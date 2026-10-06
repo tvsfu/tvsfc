@@ -191,6 +191,9 @@ https://cdn.streamhispanatv.net:3080/live/tvdobleclive.m3u8
 https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Fox Guatemala
 http://avefenixtv.com:8080/live/Jorge2403esp/P7yYkpx8cw/9171.ts
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Fox Guatemala HD 
+http://redworld.pro:8880/ValeriaGajardo/6wPYmZvbJcnX/563743
+
 
 #EXTINF:-1 group-title="⚽ EVENTO DIRECTO⚽ ", Fox 
 https://h4kuqqzp.39564828.net:8443/hls/xzwt2rhyf1d8s.m3u8?s=GrRntK2AwHMtwJpjOCRQsg&e=1779611073
