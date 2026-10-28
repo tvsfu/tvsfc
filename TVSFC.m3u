@@ -191,10 +191,6 @@ https://cdn.streamhispanatv.net:3080/live/tvdobleclive.m3u8
 https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Duro Al Petal
 https://video.fgua4-1.fna.fbcdn.net/hvideo-prn-frc/_nc_cat-1/_nc_sr_t-4/v/rASfALBC6xbLNLG_NSjuvdvlOidoOBicxbIqtGoFzD36teQ/_nc_ohc-6CHSHx4qGUUQ7kNvwEMhdwT/live-dash/dash-abr-ibr-audio/1734166502052724.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AQOFjrtjM97CQAUD3RRCIsyEgAZNTMXQKdMmxzOXMh1mKw&oe=6ADEA69B
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Fox Guatemala
-http://avefenixtv.com:8080/live/Jorge2403esp/P7yYkpx8cw/9171.ts
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Fox Guatemala HD 
-http://redworld.pro:8880/ValeriaGajardo/6wPYmZvbJcnX/563743
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Canal 13 TL
 http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/441165.ts
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", La  Red TV 
@@ -203,6 +199,19 @@ http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/320806.ts
 http://208.115.234.197/live/israelg/YZSy8mmgqjMu/310613.ts?token=bU05UkoxYmtuY0FrQW4w
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Canal USAC
 http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/285302.ts
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Claro sports Gt HD
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/451.ts
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Claro Sports Gt 
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/452.ts
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Fox Guatemala HD 
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/287595.ts
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Fox Guatemala HD 1
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/112178.ts
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Fox Guatemala HD 2
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/112179.ts
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Fox Guatemala HD 3
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/141531.ts
+
 #EXTINF:-1 group-title="⚽ EVENTO DIRECTO⚽ ", Fox 
 https://h4kuqqzp.39564828.net:8443/hls/xzwt2rhyf1d8s.m3u8?s=GrRntK2AwHMtwJpjOCRQsg&e=1779611073
 #EXTINF:-1 group-title="⚽ EVENTO DIRECTO⚽ ", Fox 2
@@ -4339,8 +4348,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771326
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sports SDT | Goltv" tvg-logo="https://i.postimg.cc/bNz804s8/Sin-titulo-(800-x-750-px)-20251218-154326-0000.png" group-title="Lat | Deportes SD [K]",Sports SDT | Goltv
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1768892
 
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DEP | Claro Sports GT HD" tvg-logo="https://i.postimg.cc/WzJy1ThP/tyc-20250831-220725-0000.png" group-title="Lat | Deportes [K]",DEP | Claro Sports GT HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1378044
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DEP | TUDN HD (mÉxico)" tvg-logo="https://i.postimg.cc/nLGJFw4R/tyc-20250831-210259-0000.png" group-title="Lat | Deportes [K]",DEP | TUDN HD (mÉxico)
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/960330
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DEP | TUDN HD (usa)" tvg-logo="https://i.postimg.cc/nLGJFw4R/tyc-20250831-210259-0000.png" group-title="Lat | Deportes [K]",DEP | TUDN HD (usa)
