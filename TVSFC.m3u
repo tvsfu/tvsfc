@@ -44,7 +44,7 @@ https://tvlatina.live:1936/8008/8008/playlist.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",TV Maya
 https://tv91.hostingnuclear.com:19360/telemaya/telemaya.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",GTV
-https://live.teve.pro/live/propetario-josue-montoya/main_stream.m3u8
+https://guastream.com:3954/live/canalgtvlive.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Luna Visión TV
 https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Mas Tv Toto
@@ -99,8 +99,8 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7f6bf863d9447b7d/index.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",TVQ Sports
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/b08022c8-994e-468a-9d55-6e8450b4f397/index.m3u8
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",GUATV
-https://srt.servilive.com/live/gtv-63wlp.m3u8
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Radio Coatan Canal 21
+https://s2.tvdatta.com:3112/hybrid/play.m3u8
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SanCrisVision" tvg-logo="" group-title="✅ TV GUATEMALA ✅",SanCrisVision
 http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/463936.ts
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Cómo Antes TV HD" tvg-logo="https://nubedeappskings.vip/logos/storage/comoantes.png" group-title="✅ TV GUATEMALA ✅",Cómo Antes TV HD
