@@ -121,8 +121,8 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338861
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338862
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TV Azteca Guate HD" tvg-logo="https://nubedeappskings.vip/logos/storage/aztecaguate.png" group-title="✅ TV GUATEMALA ✅",TV Azteca Guate HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338863
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TIGO Sports (guatemala) HD" tvg-logo="https://nubedeappskings.vip/logos/storage/amigos.png" group-title="✅ TV GUATEMALA ✅", Fox Guatemala 
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338864
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TV Azteca Guate HD" tvg-logo="https://nubedeappskings.vip/logos/storage/aztecaguate.png" group-title="✅ TV GUATEMALA ✅",A+Guate HD
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/321732.ts
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Amigostv (chiquimul) HD" tvg-logo="https://nubedeappskings.vip/logos/storage/amigos.png" group-title="✅ TV GUATEMALA ✅",Amigostv (chiquimul) HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338866
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Canal 9 Tolimán (hd)" tvg-logo="https://nubedeappskings.vip/logos/storage/toliman.png" group-title="✅ TV GUATEMALA ✅",Canal 9 Tolimán (hd)
@@ -199,6 +199,8 @@ http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/320806.ts
 http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/310613.ts
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Canal USAC
 http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/285302.ts
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Can#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Canal USAC#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Guatv
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/320805.ts
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Claro sports Gt HD
 http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/451.ts
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Claro Sports Gt 
@@ -211,10 +213,65 @@ http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/112178.ts
 http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/112179.ts
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Fox Guatemala HD 3
 http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/141531.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TIGO Sports (guatemala) HD" tvg-logo="https://nubedeappskings.vip/logos/storage/amigos.png" group-title="✅ TV GUATEMALA ✅", Fox Guatemala 
+http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338864
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Claro Fox Guatemala 
 http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/371671.ts
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Claro Fox+ Guatemala 
 http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/371672.ts
+
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃",Warner Horror
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/479097.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃",HBO Horror
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/275039.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃",Sony Horror 
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/476103.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃",Club Del Miedo Space
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/480058.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃",Lionsgate+ Horror
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/474225.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃", Horror Bites
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/480280.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃",Fearnet
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/485359.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃",Horror Fun Chanel
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/479577.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃",Netflix Da Miedo 
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/474738.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃",Huluween
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/474219.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃",Horror en Primer
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/475116.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween 🎃",IYC Movies Horror
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/477259.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃",Cine Mundo Dark
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/275040.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃",Spooky TV
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/475544.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃", Cinema Classics
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/216006.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃",Blooh Suspenso 
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/475034.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃",Satel Terror 
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/474210.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃",Horrorama
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/474213.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃",Family Halloween 
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/474216.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃",Diamons Films+ Terror
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/216068.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃",Los Simpson La Casita Del Terror Chanel
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/482422.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃", Disney+ Los Simpson Horror
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/215980.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃",Cine De Horror 
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/474222.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃",FreeTV Terror 
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/474673.ts
+#EXTINF:-1 tvg-logo="" group-title="🎃 Especial Halloween🎃",Vix Cine Terror
+http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/349900.ts
+#EXTINF:-1 tvg-logo="https://nubedeappskings.vip/logos/Cinema/FreeTV.png" group-title="🎃 Especial Halloween🎃",Freetv Terror HD
+http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771676
 #EXTINF:-1 group-title="⚽ EVENTO DIRECTO⚽ ", Fox 
 https://h4kuqqzp.39564828.net:8443/hls/xzwt2rhyf1d8s.m3u8?s=GrRntK2AwHMtwJpjOCRQsg&e=1779611073
 #EXTINF:-1 group-title="⚽ EVENTO DIRECTO⚽ ", Fox 2
@@ -223,7 +280,6 @@ https://mut001.myturn1.top:8088/live/ELGTV109/playlist.m3u8?id=123246&pk=4af0a94
 https://cdn7.zohanayaan.com:1686/hls/golazoz3.m3u8?md5=oLk6A6AnlEKNX5m0ePa4Bg&expires=1779597744
 #EXTINF:-1 group-title="⚽ EVENTO DIRECTO⚽ ", Fox 4
 https://h4kuqqzp.39564828.net:8443/hls/xzwt2rhyf1d8s.m3u8?s=AvLVNcfmMGEFZ0FHMQ4FMw&e=1779612294
-
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: UEFA: M. Liga de Campeones SD" tvg-logo="http://icon.guard447.cyou/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="⚽ | Champions League ",SP: UEFA: M. Liga de Campeones SD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1927315
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: UEFA: M. Liga de Campeones HD" tvg-logo="http://icon.guard447.cyou/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="⚽ | Champions League ",SP: UEFA: M. Liga de Campeones HD
@@ -236,10 +292,8 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1927318
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1927319
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: UEFA: ESPN 3 HD (LAT)" tvg-logo="http://icon.guard447.cyou/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="⚽ | Champions League ",SP: UEFA: ESPN 3 HD (LAT)
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1927320
-
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: UEFA: Eleven Sports 5 (PT)" tvg-logo="http://icon.guard447.cyou/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="⚽ | Champions League ",SP: UEFA: Eleven Sports 5 (PT)
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1927323
-
 
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="M LIGA DE CAMPEONES HD" tvg-logo="https://i.imgur.com/sFOHCUB.png" group-title="⚽️ | Movistar Liga De Campeones [K]",M LIGA DE CAMPEONES HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1927325
@@ -414,10 +468,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1554253
 
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MD House 2 HD" tvg-logo="" group-title="Lat | 24h Español [K]",MD House 2 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1748737
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="24/7 CINE Terror 3 HD" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/peliculas-terror-hbo-coronavirus-1584445749.jpg?crop=0.530xw:1.00xh;0.236xw,0&resize=640:*" group-title="Lat | 24h Español [K]",24/7 CINE Terror 3 HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1748693
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="24/7 CINE Terror 2 HD" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/scr6-12772-r-640888e229b1c.jpg?crop=0.480xw:0.721xh;0.249xw,0.0709xh&resize=1200:*" group-title="Lat | 24h Español [K]",24/7 CINE Terror 2 HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1748701
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="24/7 CINE Accion HD" tvg-logo="http://lotv.plus:80/images/t6s7xn0v30CDcGEVlgq8Ln_ouKt8ErTmofLI8kT87YfH9vgqxUwNUn_koQNYL_kl.png" group-title="Lat | 24h Español [K]",24/7 CINE Accion HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1748700
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="24/7 CINE Marvel Studio HD" tvg-logo="http://lotv.plus:80/images/JrANNjXkWXHlOZ0yr6G3snhorewtG14lHMwUIgTKxQ2SsKK1duYM-rueebHJWBbMg_muFg-6nJh9YXAu4EiIDt-cYQOpOQOmIVIrwpyD4-m4YEePoEMXUtp4_Snz6SQK.png" group-title="Lat | 24h Español [K]",24/7 CINE Marvel Studio HD
@@ -3322,8 +3372,6 @@ http://alltvmx.com/live/ELAD627266935/1648CTUAU/575766.ts
 http://alltvmx.com/live/ELAD627266935/1648CTUAU/575774.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | The Big Bang Theory" tvg-logo="https://resizing.flixster.com/T0Fv_wWSdcAuRFTxDsGrJnsxKyk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10039305_b_v9_aa.jpg" group-title="24/7 - TEMPORAL",24/7 | The Big Bang Theory
 http://alltvmx.com/live/ELAD627266935/1648CTUAU/575775.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: CINE TERROR HD" tvg-logo="https://www.21secolo.news/wp-content/uploads/2021/09/cinema-movie-background-popcorn-filmstrip-clapboard-tickets-movie-time-background_41737-248.jpg" group-title="24/7 - TEMPORAL",24/7: CINE TERROR HD
-http://alltvmx.com/live/ELAD627266935/1648CTUAU/575790.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7: El chavo del 8" tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2023/03/26/642101977e55a5095f5810cb.jpg" group-title="24/7 - TEMPORAL",24/7: El chavo del 8
 http://alltvmx.com/live/ELAD627266935/1648CTUAU/575793.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7: Los locos Addams" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/d/d5/TheAddamsFamily.jpg/revision/latest?cb=20230217063235&path-prefix=es" group-title="24/7 - TEMPORAL",24/7: Los locos Addams
@@ -3719,8 +3767,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771667
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771670
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Freetv Live HD" tvg-logo="https://nubedeappskings.vip/logos/Cinema/FreeTV.png" group-title="Lat | Cinema (K)",Freetv Live HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771673
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Freetv Terror HD" tvg-logo="https://nubedeappskings.vip/logos/Cinema/FreeTV.png" group-title="Lat | Cinema (K)",Freetv Terror HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771676
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Freetv Hits HD" tvg-logo="https://nubedeappskings.vip/logos/Cinema/FreeTV.png" group-title="Lat | Cinema (K)",Freetv Hits HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771682
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Freetv Familia HD" tvg-logo="https://nubedeappskings.vip/logos/Cinema/FreeTV.png" group-title="Lat | Cinema (K)",Freetv Familia HD
@@ -3732,8 +3778,6 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771679
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Freetv Saber Más HD" tvg-logo="https://nubedeappskings.vip/logos/Cinema/FreeTV.png" group-title="Lat | Cinema (K)",Freetv Saber Más HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771691
 
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Freetv Terror HD" tvg-logo="https://contentmasters.app/logos/freetv-terror.png" group-title="Lat | Cinema HD [K]",Freetv Terror HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1774080
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DE Pelicula PLUS HD" tvg-logo="https://contentmasters.app/logos/depeliculaplus.png" group-title="Lat | Cinema HD [K]",DE Pelicula PLUS HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1774068
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Canela TV Pasion Latina HD" tvg-logo="https://contentmasters.app/logos/canela.png" group-title="Lat | Cinema HD [K]",Canela TV Pasion Latina HD
@@ -8040,8 +8084,7 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771996
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771997
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Urban TV Retro HD" tvg-logo="https://i.postimg.cc/SR0YYXmK/logo-urbanretro.png" group-title="Port | Brasil Cine Pipoca [K]",Urban TV Retro HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771998
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Pluto TV CINE Terror HD" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Port | Brasil Cine Pipoca [K]",Pluto TV CINE Terror HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771981
+
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Pluto TV CINE Sucessos HD" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Port | Brasil Cine Pipoca [K]",Pluto TV CINE Sucessos HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771979
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Runtime Familia HD" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/poster/366x206/runtime_family_brazil_1400x2000.jpg" group-title="Port | Brasil Cine Pipoca [K]",Runtime Familia HD
@@ -8078,8 +8121,7 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771973
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771974
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Pluto TV Filmes Aventura HD" tvg-logo="https://imgur.com/YFRZcGW.png" group-title="Port | Brasil Cine Pipoca [K]",Pluto TV Filmes Aventura HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771975
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Pluto TV Terror Trash HD" tvg-logo="https://imgur.com/xhWyVZj.png" group-title="Port | Brasil Cine Pipoca [K]",Pluto TV Terror Trash HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771976
+
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Pluto TV CINE Crime HD" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="Port | Brasil Cine Pipoca [K]",Pluto TV CINE Crime HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1771977
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Urban TV Travel HD" tvg-logo="https://i.postimg.cc/23RyygF2/logo-urbantravel.png" group-title="Port | Brasil Cine Pipoca [K]",Urban TV Travel HD
@@ -8214,12 +8256,7 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782174
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782118
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Comedia 08: Nacional 01 HD" tvg-logo="https://i.ibb.co/rdMrhth/fb1b65ed-3171-4372-9f56-b785a87feaf5-8.jpg" group-title="Port | Brasil Cineflix [K]",CINE Comedia 08: Nacional 01 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782132
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Terror 02 HD" tvg-logo="https://i.ibb.co/j893jSx/terror5786254-02.jpg" group-title="Port | Brasil Cineflix [K]",CINE Terror 02 HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782143
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Terror 01 HD" tvg-logo="https://i.ibb.co/17xKvj9/terror5786254-01.jpg" group-title="Port | Brasil Cineflix [K]",CINE Terror 01 HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782142
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Drama 03 HD" tvg-logo="https://i.ibb.co/q0Yhjf1/cf110a7b-d7cd-4c66-ac00-0227135c5b10.jpg" group-title="Port | Brasil Cineflix [K]",CINE Drama 03 HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782141
+
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Drama 02 HD" tvg-logo="https://i.ibb.co/WBtrck2/2fcb7bc1-dde4-46b0-b4f7-8bfd583fc0ff.jpg" group-title="Port | Brasil Cineflix [K]",CINE Drama 02 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782140
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Drama 01 HD" tvg-logo="https://i.ibb.co/pQVzSby/135a7424-0452-4426-825f-b1816704ddb4.jpg" group-title="Port | Brasil Cineflix [K]",CINE Drama 01 HD
@@ -8238,8 +8275,7 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782134
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782133
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Comedia 07 HD" tvg-logo="https://i.ibb.co/jJxjRXk/7eb40856-bf41-4d69-b3af-f03ed8fb626d-7.jpg" group-title="Port | Brasil Cineflix [K]",CINE Comedia 07 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782131
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Terror 04: Zumbi HD" tvg-logo="https://i.ibb.co/HqTpN41/terror5786254-04.jpg" group-title="Port | Brasil Cineflix [K]",CINE Terror 04: Zumbi HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782145
+
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Comedia 06 HD" tvg-logo="https://i.ibb.co/hFPyLv9/ebbc3834-2a1f-4fb4-88dc-e713eaca7ace-6.jpg" group-title="Port | Brasil Cineflix [K]",CINE Comedia 06 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782130
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Comedia 05 HD" tvg-logo="https://i.ibb.co/X4ttypx/8808e1b7-f0e6-43c8-a4eb-9d5a3863094e-5.jpg" group-title="Port | Brasil Cineflix [K]",CINE Comedia 05 HD
@@ -8264,10 +8300,7 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782121
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782120
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Catastrofe 03 HD" tvg-logo="https://i.ibb.co/DH2Bcw04/catas03.png" group-title="Port | Brasil Cineflix [K]",CINE Catastrofe 03 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782119
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Terror 03 HD" tvg-logo="https://i.ibb.co/9sCjkjC/terror5786254-03.jpg" group-title="Port | Brasil Cineflix [K]",CINE Terror 03 HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782144
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Terror 05: Vampiros 01 HD" tvg-logo="https://i.ibb.co/5rVkNdT/terror5786254-05.jpg" group-title="Port | Brasil Cineflix [K]",CINE Terror 05: Vampiros 01 HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782146
+
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="007: Retro HD" tvg-logo="https://i.ibb.co/hZpPJHb/007.png" group-title="Port | Brasil Cineflix [K]",007: Retro HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782173
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Fantasia 06 HD" tvg-logo="https://i.ibb.co/ZLnVSsW/Whats-App-Image-2022-07-20-at-18-13-17.jpg" group-title="Port | Brasil Cineflix [K]",CINE Fantasia 06 HD
@@ -8286,9 +8319,7 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782168
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782167
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Marvel 01 HD" tvg-logo="https://i.ibb.co/tmw6vzy/marvel56785.png" group-title="Port | Brasil Cineflix [K]",CINE Marvel 01 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782166
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Fantasia 10: Terror 02 HD" tvg-logo="https://i.ibb.co/dmjfTjq/Fantasia-567852345-010.jpg" group-title="Port | Brasil Cineflix [K]",CINE Fantasia 10: Terror 02 HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782165
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Fantasia 09: Terror 01 HD" tvg-logo="https://i.ibb.co/RQcp9Nv/Fantasia-567852345-09.jpg" group-title="Port | Brasil Cineflix [K]",CINE Fantasia 09: Terror 01 HD
+
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782164
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Fantasia 08: Magia 02 HD" tvg-logo="https://i.ibb.co/3dkfnnM/Fantasia-567852345-08.jpg" group-title="Port | Brasil Cineflix [K]",CINE Fantasia 08: Magia 02 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782163
@@ -8296,8 +8327,7 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782163
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782162
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Fantasia 05 HD" tvg-logo="https://i.ibb.co/2YVg2jc/Whats-App-Image-2022-07-20-at-18-13-17-5.jpg" group-title="Port | Brasil Cineflix [K]",CINE Fantasia 05 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782160
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Terror 06: Vampiros 02 HD" tvg-logo="https://i.ibb.co/y45385d/terror5786254-06.jpg" group-title="Port | Brasil Cineflix [K]",CINE Terror 06: Vampiros 02 HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782147
+
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Fantasia 04 HD" tvg-logo="https://i.ibb.co/rGkjmNq/Whats-App-Image-2022-07-20-at-18-13-16-1.jpg" group-title="Port | Brasil Cineflix [K]",CINE Fantasia 04 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782159
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Fantasia 03 HD" tvg-logo="https://i.ibb.co/rGkjmNq/Whats-App-Image-2022-07-20-at-18-13-16-1.jpg" group-title="Port | Brasil Cineflix [K]",CINE Fantasia 03 HD
@@ -8306,22 +8336,7 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782158
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782157
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Fantasia 01 HD" tvg-logo="https://i.ibb.co/25WHTrg/Whats-App-Image-2022-07-20-at-18-13-17-6.jpg" group-title="Port | Brasil Cineflix [K]",CINE Fantasia 01 HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782156
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Terror 14 HD" tvg-logo="https://i.ibb.co/pP3Bxz2/terror5786254-014.jpg" group-title="Port | Brasil Cineflix [K]",CINE Terror 14 HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782155
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Terror 13 HD" tvg-logo="https://i.ibb.co/rmctsz4/terror5786254-013.jpg" group-title="Port | Brasil Cineflix [K]",CINE Terror 13 HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782154
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Terror 12 HD" tvg-logo="https://i.ibb.co/6NzQHYG/terror5786254-012.jpg" group-title="Port | Brasil Cineflix [K]",CINE Terror 12 HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782153
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Terror 11: Retro HD" tvg-logo="https://i.ibb.co/sQBtbvS/terror5786254-011.jpg" group-title="Port | Brasil Cineflix [K]",CINE Terror 11: Retro HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782152
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Terror 10 HD" tvg-logo="https://i.ibb.co/bHLmDKT/terror5786254-010.jpg" group-title="Port | Brasil Cineflix [K]",CINE Terror 10 HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782151
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Terror 09: Sobrenatural HD" tvg-logo="https://i.ibb.co/wr71pWX/terror5786254-09.jpg" group-title="Port | Brasil Cineflix [K]",CINE Terror 09: Sobrenatural HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782150
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Terror 08: Exorcismos HD" tvg-logo="https://i.ibb.co/02YWrqx/terror5786254-08.jpg" group-title="Port | Brasil Cineflix [K]",CINE Terror 08: Exorcismos HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782149
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Terror 07 HD" tvg-logo="https://i.ibb.co/rMx4BvD/terror5786254-07.jpg" group-title="Port | Brasil Cineflix [K]",CINE Terror 07 HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782148
+
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="X-men: Wolwerine HD" tvg-logo="https://i.ibb.co/RYV85SN/xmen-wolwerine.png" group-title="Port | Brasil Cineflix [K]",X-men: Wolwerine HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1782230
 
