@@ -44,7 +44,7 @@ https://tvlatina.live:1936/8008/8008/playlist.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",TV Maya
 https://tv91.hostingnuclear.com:19360/telemaya/telemaya.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",GTV
-https://srt.servilive.com/live/gtv-63wlp.m3u8?hls_ctx=0c979587
+https://live.teve.pro/live/propetario-josue-montoya/main_stream.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Luna Visión TV
 https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Mas Tv Toto
@@ -76,7 +76,7 @@ https://lbgo.bozztv.com/ssh101/ssh101/tdssololagt/chunks.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",TVS Sololá
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-logo=https://static.wixstatic.com/media/7acae1_53119f9bd94741c9bbc6d971331cdaa4~mv2.png" group-title="✅ TV GUATEMALA ✅",Totovision
-https://lbgo.bozztv.com/ssh101/ssh101/totovisiongt/chunks.m3u8
+https://totovision.com.gt/live-stream/index.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Tv Florencia
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Tv Globo Xela
@@ -110,15 +110,15 @@ http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338857
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Canal 13 HD" tvg-logo="https://nubedeappskings.vip/logos/storage/trece.png" group-title="✅ TV GUATEMALA ✅",Canal 13 HD
 http://190.61.101.11:7050/play/a07f/index.m3u8
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Canal 3 HD" tvg-logo="https://nubedeappskings.vip/logos/storage/canal3.png" group-title="✅ TV GUATEMALA ✅",Canal 3 HD
-https://d3jocgwjuhw91y.cloudfront.net/ts:abr.m3u8
+https://emisorasgt.com//player.php?url=https%3A%2F%2Fdlaptrd843fxz.cloudfront.net%2F3_4%2Findex.m3u8
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Canal 7 HD" tvg-logo="https://nubedeappskings.vip/logos/storage/canal 7.png" group-title="✅ TV GUATEMALA ✅",Canal 7 HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338860
+https://d2h2wh04y3aqtb.cloudfront.net/hls/hm8maie2jnn2/3_4/index.m3u8
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TN23" tvg-logo="https://alba-gt-chapintv.cdn.mediatiquepress.com/wp-content/uploads/2022/03/TN23-2-700x432.jpg" group-title="✅ TV GUATEMALA ✅",TN23
-https://d3qt8k30mpy8xx.cloudfront.net/medialist_15609871089997455276_hls.m3u8
+https://d2h2wh04y3aqtb.cloudfront.net/hls/by1ualyjwslr/7_4/index.m3u8
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Canal Antigua HD" tvg-logo="https://nubedeappskings.vip/logos/storage/canal antigua.png" group-title="✅ TV GUATEMALA ✅",Canal Antigua HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338861
+https://5ca9af4645e15.streamlock.net/antigua/videoantigua/chunklist_w662410708.m3u8
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Guatevision HD" tvg-logo="https://nubedeappskings.vip/logos/storage/guatevision.png" group-title="✅ TV GUATEMALA ✅",Guatevision HD
-http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338862
+https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-gdai/69f8df22a762c9b1ab3eabca/linear/hls/pa/event/zaC-Xw1HSNyYf9MY-TuOAQ/stream/c861c0a7-f761-496f-ab3e-973e68616fe3:MRN2/variant/519932ab8fb974b02c1ad946294b07a0/bandwidth/2635600.m3u8?aid=69f3a01bf740b9c0187c9be1&dnt=true&dual_render=1&uid=CNk3q34oJelnY8MH4Lm7BQMkAT6zdNOb&sid=MDzg9NqSeyKTAk3jNFwFiE1RVuHZQ2ML&pid=4MhSO2mRHb8NmGkuCn4Q3ovvAnwcQ9aw&ref=mdstrm.com&ext_pb=0&CMCD=cid%3D%2269f8df22a762c9b1ab3eabca%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224MhSO2mRHb8NmGkuCn4Q3ovvAnwcQ9aw%22%2Csu&adInsertionGoogleStreamId=c861c0a7-f761-496f-ab3e-973e68616fe3%3AMRN2&es=us-b4-p-e-ja16.cdn.mdstrm.com&ote=1793390039209&ot=W7bGvL378yjqyh8uVFDYkw&proto=https&pz=us&access_token=nhv2bbjN6vTnI38Spx1hi0RB8hvp8rfPSRzPt2eIQMlxgBg9YnPPB0DcKuBK1Ym4ynKfLFpEQwk
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TV Azteca Guate HD" tvg-logo="https://nubedeappskings.vip/logos/storage/aztecaguate.png" group-title="✅ TV GUATEMALA ✅",TV Azteca Guate HD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1338863
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TV Azteca Guate HD" tvg-logo="https://nubedeappskings.vip/logos/storage/aztecaguate.png" group-title="✅ TV GUATEMALA ✅",A+Guate HD
