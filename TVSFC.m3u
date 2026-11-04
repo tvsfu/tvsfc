@@ -317,6 +317,8 @@ http://skynetmax.live:8080/live/Profecancha/ZkXYquW9Mz/869164.ts
 
 #EXTINF:-1 tvg-id="1d4d9eeb-30c7-4470-9732-947def030855" tvg-name="24/7 Mi pobre Angelito" tvg-logo="https://i.imgur.com/Fa3lELt.jpeg" group-title="▶️ 24/7 EXCLUSIVO PELICULAS",24/7 Mi pobre Angelito
 http://liontv.es:8080/ArmandoJuarez466/LiontvAJ123/458710
+#EXTINF:-1 tvg-logo="" group-title="▶️ 24/7 EXCLUSIVO PELICULAS", 24/7 Terminator 
+http://skynetmax.live:8080/live/Profecancha/ZkXYquW9Mz/315399.ts
 
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SP: UEFA: M. Liga de Campeones SD" tvg-logo="http://icon.guard447.cyou/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="⚽ | Champions League ",SP: UEFA: M. Liga de Campeones SD
 http://vip-kings-cr-tv.vip:2095/Leonel61/LU581526024/1927315
