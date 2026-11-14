@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTodIB2Jh3A7ycYU2JOAvnDq9dUlf-YRQJxTxq2_DTa63bSraoJjChqnA&s=10" group-title="✅ TV GUATEMALA ✅",Aurora Media Films Tv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTodIB2Jh3A7ycYU2JOAvnDq9dUlf-YRQJxTxq2_DTa63bSraoJjChqnA&s=10" group-title="✅ TV GUATEMALA ✅",Canal 17 Aurora Media Films Tv
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe_6eIgPC-M74Jcmcvnd3o8Irx4jW5P0eJHYuMSsqjcQlnpFB9" group-title="✅ TV GUATEMALA ✅",Barbe TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe_6eIgPC-M74Jcmcvnd3o8Irx4jW5P0eJHYuMSsqjcQlnpFB9" group-title="✅ TV GUATEMALA ✅", Canal 9 Barbe TV
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal 26 Quezada
 https://cdn.streamhispanatv.net:3059/live/canal26quezadalive.m3u8
@@ -23,29 +23,29 @@ https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/chunklist_w163306148
 https://cdn.streamhispanatv.net:3798/live/c84cristolive.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal 98 Jesus Tv
 https://cdn.streamhispanatv.net:3965/live/jesustvlive.m3u8
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal Amigos Tv
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal 98 Amigos Tv
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal Antigua
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal 23 Canal Antigua
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal Telecosta Escuintla
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal 33 Telecosta Escuintla
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal Tv TUN
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal 33 Tv TUN
 https://tvstream.alojawebgt.net:3289/live/tvtunlive.m3u8
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Como Antes TV
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal 42 Como Antes TV
 https://tvstream.alojawebgt.net:3358/live/comoantestvlive.m3u8
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Cono Sur TV
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal 26 Cono Sur
 https://cdn.streamhispanatv.net:3831/live/conosurlive.m3u8
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",El Olam Tv
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal 83 El Olam Tv
 https://live.elolamtv.org:3927/live/elolamtvlivelive.m3u8
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Espiritu Santo Y Fuego Tv
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Canal 68 Espiritu Santo Y Fuego Tv
 https://stream.inliveserver.com:19360/8056/8056.m3u8
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Nuevo Mundo TV 
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal 29 Nuevo Mundo TV 
 https://tvlatina.live:1936/8008/8008/playlist.m3u8
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",TV Maya
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal 12 TV Maya
 https://tv91.hostingnuclear.com:19360/telemaya/telemaya.m3u8
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",GTV
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Canal 30 GTV
 https://guastream.com:3954/live/canalgtvlive.m3u8
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Luna Visión TV
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Canal 25 Luna Visión TV
 https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Mas Tv Toto
 https://cdn.streamhispanatv.net:3953/live/mastvtotolive.m3u8
@@ -91,7 +91,7 @@ https://tvdatta.com:3508/live/zoevisiontvlive.m3u8
 http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Canal 10 solola
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/540
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", El Roy TV Canal 50 Solola
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal 50 El Roy TV Solola
 http://iptv.streamhispanatv.net:8080/live/playgt/playgt2023/62.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",TVQ Live
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7f6bf863d9447b7d/index.m3u8
