@@ -196,15 +196,18 @@ https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Vea Canal
 http://181.78.106.127:5000/play/ca090/index.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Canal 13 TL
-http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/441165.ts
+http://www.tl.com.gt/live.php?file=0.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", La  Red TV 
 http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/320806.ts
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Canal 9 Canal del Congreso Gt
 http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/310613.ts
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Canal USAC
 http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/285302.ts
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Can#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Canal USAC#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Guatv
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Can#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Canal USAC
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Guatv
 http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/320805.ts
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Guatv HD
+https://stream.castr.com/6a6b6a5aa395248409704102/live_0be585b08c3611f1bf789b5cb219835e/index.fmp4.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Claro sports Gt HD
 http://mnw.elchamp23clor.site:2095/live/israelg/YZSy8mmgqjMu/451.ts
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Claro Sports Gt 
